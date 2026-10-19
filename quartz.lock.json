@@ -4,8 +4,8 @@
     "quartz-random-notes": {
       "source": "github:bahkjeongho/quartz-random-notes",
       "resolved": "https://github.com/bahkjeongho/quartz-random-notes.git",
-      "commit": "2f3a92bf783232c009a04bb9df7eeec857d8fd3d",
-      "installedAt": "2026-10-19T09:57:31.507Z"
+      "commit": "fbab4f7035541c9359420167052de86a66fed879",
+      "installedAt": "2026-10-19T10:04:25.861Z"
     }
   }
 }

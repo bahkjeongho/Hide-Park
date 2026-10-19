@@ -10,6 +10,7 @@ rm -rf "content/0. Clipping" "content/00. Template" content/.obsidian content/.s
 find content -name ".DS_Store" -delete
 find content -name "*.md" -print0 | LC_ALL=C xargs -0 sed -i '' 's/\[! /[!/g'
 node clean-frontmatter.mjs content
+node make-labels.mjs content
 
 git add -A
 if git diff --cached --quiet; then
