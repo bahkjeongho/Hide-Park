@@ -17,6 +17,6 @@ Related:
 
 ![](https://www.youtube.com/watch?v=5URefVYaJrA)
 
-- [[Tailor Swif]] by [[A$AP Rocky]] [M/V]
+- [[Tailor Swif (A$AP Rocky)]] by [[A$AP Rocky]] [M/V]
 
 ---

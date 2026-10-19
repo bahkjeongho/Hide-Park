@@ -52,7 +52,7 @@ Related:
 * [[SYNK aeXIS LINE (2025) (aespa)|SYNK : aeXIS LINE]] [Special Digital Single] (2025.11.17)
 * [[ATTITUDE (aespa)|ATTITUDE]] [Digital Single] (2026.03.06)
 * [[WDA (Whole Different Animal) (aespa)|WDA (Whole Different Animal)]] [Pre-release Single] (2026.05.11)
-* [[3. Object/LEMONADE (aespa)|LEMONADE]] [2nd Studio Album] (2026.05.29)
+* [[LEMONADE (aespa) 1|LEMONADE]] [2nd Studio Album] (2026.05.29)
 * [[KISS N TELL (aespa)|KISS N TELL]] [1st Japanese EP] (2026.07.24)
 * [[SYNK aeXIS LINE (2026) (aespa)|SYNK : aeXIS LINE]] [Special Digital Single] (2026.08.09)
 * [[SYNK COMPLæXITY (aespa)|SYNK : COMPLæXITY]] [Special Digital Single] (2026.09.14)
