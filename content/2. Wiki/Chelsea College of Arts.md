@@ -10,7 +10,7 @@ tags:
 Related:
   - "[[University of the Arts London|UAL]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

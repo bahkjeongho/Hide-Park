@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Graphic Designer` at [[Teleport Online]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

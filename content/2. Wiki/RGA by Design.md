@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[George Lavender]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >R/GA is a company of reinvention.  
 As technology changes the world,  
 we embrace it and evolve.  

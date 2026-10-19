@@ -12,7 +12,7 @@ Related:
   - "[[Dazed Media]]"
   - "[[2. Wiki/Jefferson Hack]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -23,7 +23,7 @@ Related:
 
 ## Related Topics
 - [[]]
->[! tldr]
+>[!tldr]
 >
 
 > [!Info]

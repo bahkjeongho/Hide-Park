@@ -8,7 +8,7 @@ Country/Region: Paris / France
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

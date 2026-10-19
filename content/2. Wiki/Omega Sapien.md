@@ -11,7 +11,7 @@ tags:
 Related:
   - "[[Balming Tiger]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

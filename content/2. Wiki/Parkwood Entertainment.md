@@ -10,13 +10,13 @@ tags:
 Related:
   - "[[Beyoncé]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 
 ---
 

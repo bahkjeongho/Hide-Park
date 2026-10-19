@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > [[Fashion Brand]] founded by [[Nike]] collaborated with [[Drake]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

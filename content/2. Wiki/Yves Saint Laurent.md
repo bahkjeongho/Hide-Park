@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|1 August 1936  <br><br>[Oran](https://en.wikipedia.org/wiki/Oran "Oran"), [French Algeria](https://en.wikipedia.org/wiki/French_Algeria)|

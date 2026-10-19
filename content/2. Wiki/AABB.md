@@ -11,7 +11,7 @@ Related:
   - "[[백준열]]"
   - "[[이소림]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

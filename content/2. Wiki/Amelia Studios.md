@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 >  Amelia Studios is an independent studio specialising in creative production & direction for the world’s most illustrious artists & brands.
 
-> [! Summary]
+> [!Summary]
 

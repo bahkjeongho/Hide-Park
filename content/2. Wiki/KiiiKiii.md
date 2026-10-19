@@ -10,7 +10,7 @@ tags:
 Related:
   - "[[Starship Entertainment]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

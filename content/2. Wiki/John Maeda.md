@@ -11,13 +11,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `(Ex) President & CEO` of [[RISD]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|1966 (age 59–60)  <br><br>[Seattle, Washington](https://en.wikipedia.org/wiki/Seattle,_Washington "Seattle, Washington"), US|

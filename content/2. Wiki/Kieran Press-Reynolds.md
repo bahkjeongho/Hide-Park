@@ -8,7 +8,7 @@ tags:
 Related:
   - "[[Simon Reynolds]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

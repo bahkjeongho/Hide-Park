@@ -11,7 +11,7 @@ tags:
 Related:
   - "[[HYBE]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

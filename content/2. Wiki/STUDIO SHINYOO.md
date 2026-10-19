@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -28,5 +28,5 @@ Related:
 
 스튜디오 신유의 첫 번째 프로젝트 “LIN COLLECTION”은 월간 디자인, Dezeen 등 권위있는 국내/외 매거진을 통해 소개되며 한국의 전통적인 아름다움을 보편적이고 현대적으로 탁월하게 풀어냈다고 평가받았다. 현재는 SK에코플랜트, 설화수, 포르쉐, 젠틀몬스터 등 글로벌 브랜드들과 협업을 진행하며 폭넓게 활동하고 있다.
 
-> [! Summary]
+> [!Summary]
 

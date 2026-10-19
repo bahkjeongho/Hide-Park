@@ -11,7 +11,7 @@ tags:
 Related:
   - "[[UNCANNY]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

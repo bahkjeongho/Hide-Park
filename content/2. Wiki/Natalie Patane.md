@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Senior Designer` of [[Spotify]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

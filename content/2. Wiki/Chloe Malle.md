@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Head of Editorial Content` of [[Vogue]] USA
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

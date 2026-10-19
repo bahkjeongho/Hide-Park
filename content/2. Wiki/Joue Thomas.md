@@ -10,11 +10,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Founder & CEO` of [[GALLERY DEPARTMENT]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

@@ -15,7 +15,7 @@ Related:
   - "[[WayV]]"
   - "[[NCT WISH]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

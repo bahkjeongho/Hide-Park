@@ -9,13 +9,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Beyoncé Giselle Knowles<br><br>  <br>September 4, 1981 (age 45)  <br><br>[Houston](https://en.wikipedia.org/wiki/Houston "Houston"), Texas, US|

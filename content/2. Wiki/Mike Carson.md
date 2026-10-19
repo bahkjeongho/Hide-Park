@@ -12,7 +12,7 @@ tags:
 Related:
 Wikis:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Creative Director` for [[Kendrick Lamar]], [[TEMS]], [[Apple Music]]
 
 > [!Info]
@@ -20,5 +20,5 @@ Wikis:
   
 Mike has directed and designed for the likes of Apple, Netflix, Chanel, Kendrick Lamar, pgLang, Parkwood Entertainment, Linkin Park, Travis Scott, Nike, Spotify, New Balance, PUMA and more.
 
-> [! Summary]
+> [!Summary]
 

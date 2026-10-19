@@ -9,7 +9,7 @@ Country/Region: "[[Paris / Francs]]"
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

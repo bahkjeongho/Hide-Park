@@ -9,13 +9,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Robyn Rihanna Fenty<br><br>  <br>February 20, 1988 (age 38)  <br><br>[Saint Michael, Barbados](https://en.wikipedia.org/wiki/Saint_Michael,_Barbados "Saint Michael, Barbados")|

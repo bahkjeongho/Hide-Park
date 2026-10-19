@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|October 17, 1985 (age 40)  <br><br>Evanston, Illinois, US|

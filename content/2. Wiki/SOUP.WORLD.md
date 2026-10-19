@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[NTS Radio]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -19,7 +19,7 @@ Related:
 ## Key Concepts
 
 ## Related Topics
-- [[]]>[! tldr]
+- [[]]>[!tldr]
 >
 
 > [!Info]

@@ -11,7 +11,7 @@ tags:
 Related:
   - "[[Ma Yansong]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Type|[Subsidiary](https://en.wikipedia.org/wiki/Subsidiary_company "Subsidiary company")|

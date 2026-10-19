@@ -9,13 +9,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Type|[Società a responsabilità limitata](https://en.wikipedia.org/wiki/Societ%C3%A0_a_responsabilit%C3%A0_limitata "Società a responsabilità limitata")|

@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Creative Director` of [[The New York Times Magazine]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

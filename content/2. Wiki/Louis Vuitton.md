@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Type|Subsidiary[[1]](https://en.wikipedia.org/wiki/Louis_Vuitton#cite_note-legal-notice-1)|

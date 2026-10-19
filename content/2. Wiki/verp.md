@@ -10,11 +10,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Art Director` of [[Office Magazine]]
  
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

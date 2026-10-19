@@ -18,11 +18,11 @@ IG:
 Website:
 Wikis:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

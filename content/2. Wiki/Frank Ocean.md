@@ -9,12 +9,12 @@ Wikis: https://en.wikipedia.org/wiki/Frank_Ocean
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 
->[! Summary]
+>[!Summary]
 >|   |   |
 |---|---|
 |Born|Christopher Edwin Breaux<br><br>  <br>October 28, 1987 (age 38)  <br><br>[Long Beach, California](https://en.wikipedia.org/wiki/Long_Beach,_California "Long Beach, California"), U.S.|

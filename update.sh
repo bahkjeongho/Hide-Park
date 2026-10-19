@@ -7,6 +7,7 @@ VAULT="/Users/parkjeongho/Library/Mobile Documents/iCloud~md~obsidian/Documents/
 cp -R "$VAULT/." content/
 rm -rf "content/0. Clipping" "content/00. Template" content/.obsidian content/.smart-env
 find content -name ".DS_Store" -delete
+find content -name "*.md" -print0 | LC_ALL=C xargs -0 sed -i '' 's/\[! /[!/g'
 
 git add -A
 if git diff --cached --quiet; then

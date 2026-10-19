@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
->[! Summary]
+>[!Summary]
 >|   |   |
 |---|---|
 |Born|Grace Wales<br><br>  <br>1990 (age 35–36)  <br><br>[South London](https://en.wikipedia.org/wiki/South_London "South London"), England|

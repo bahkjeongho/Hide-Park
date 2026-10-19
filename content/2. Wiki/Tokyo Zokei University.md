@@ -14,11 +14,11 @@ tags:
 Related:
   - "[[Gobidai]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

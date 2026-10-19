@@ -10,7 +10,7 @@ tags:
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

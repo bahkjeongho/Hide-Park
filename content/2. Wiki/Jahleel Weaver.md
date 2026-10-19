@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -22,5 +22,5 @@ His work centres on building narratives that translate individual vision into ex
 
 Raised in a Panamanian-Jamaican household in Maryland, he was shaped by the convergence of popular culture, fashion and music in
 
-> [! Summary]
+> [!Summary]
 

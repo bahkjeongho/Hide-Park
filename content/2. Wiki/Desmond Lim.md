@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Editor-in-Chief` of [[Vogue]] Singapore
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

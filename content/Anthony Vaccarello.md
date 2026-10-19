@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `(Ex) Creative Director` of [[Yves Saint Laurent (Brand)|SAINT LAURENT]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

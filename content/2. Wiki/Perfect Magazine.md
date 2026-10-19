@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > Perfect˙ is a living, breathing creative community. We believe in creating meaningful work with the power to challenge, entertain and transform. We are many. We are one.
 
-> [! Summary]
+> [!Summary]
 

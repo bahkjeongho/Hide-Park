@@ -11,7 +11,7 @@ Country/Region: Los Angeles / USA
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Creative Show Direction` for [[Justin Bieber]], [[BTS]], [[Fred again..]], etc.
 
 > [!Info]

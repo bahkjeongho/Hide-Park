@@ -10,11 +10,11 @@ Related:
   - "[[Kendrick Lamar]]"
 Wikis:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

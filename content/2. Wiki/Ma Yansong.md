@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[MAD]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

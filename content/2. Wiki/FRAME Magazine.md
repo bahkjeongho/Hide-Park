@@ -13,7 +13,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -22,7 +22,7 @@ Related:
 
 Join FRAME if you’re a designer, design professional, or design-oriented brand. Discover who we are and what we offer on this page.
 
-> [! Summary]
+> [!Summary]
 
 ---
 

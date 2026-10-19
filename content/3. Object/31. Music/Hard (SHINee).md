@@ -21,7 +21,7 @@ URL:
 ---
 ---
 
->[! Summary]
+>[!Summary]
 
 Creative Concept Planning & Graphic Design  
 [[조수연]] [@synsegye](https://www.instagram.com/synsegye/)  

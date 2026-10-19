@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Member` of [[MOUTHWASH Studio]]
 
 > [!Info]
 > Jordy is a brazilian designer working across multiple disciplines like branding, visual design and art direction. 
 
-> [! Summary]
+> [!Summary]
 

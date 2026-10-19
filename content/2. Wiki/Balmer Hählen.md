@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -36,5 +36,5 @@ Their achievements, both locally and internationally, are regularly exhibited an
 
 Since 2022, the two co-founders of the studio have been members of the [Alliance Graphique Internationale (AGI)](https://a-g-i.org/), a recognition of their commitment and expertise in the field of graphic design.
 
-> [! Summary]
+> [!Summary]
 

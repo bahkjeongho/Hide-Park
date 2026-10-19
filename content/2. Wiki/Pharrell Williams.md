@@ -11,13 +11,13 @@ Related:
   - "[[N.E.R.D.]]"
   - "[[the Neptunes]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Pharrell Lanscilo Williams[[1]](https://en.wikipedia.org/wiki/Pharrell_Williams#cite_note-GrammyBio-1)<br><br>  <br>April 5, 1973 (age 53)  <br><br>[Virginia Beach, Virginia](https://en.wikipedia.org/wiki/Virginia_Beach,_Virginia "Virginia Beach, Virginia"), U.S.|

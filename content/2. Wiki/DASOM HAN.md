@@ -11,7 +11,7 @@ tags:
 Related:
   - "[[newyearasia]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

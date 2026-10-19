@@ -9,13 +9,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Rakim Athelston Mayers<br><br>  <br>October 3, 1988 (age 38)  <br><br>[New York City](https://en.wikipedia.org/wiki/New_York_City "New York City"), U.S.|

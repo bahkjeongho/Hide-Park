@@ -14,11 +14,11 @@ Website:
 Wikis:
 ---
 ![](https://www.aiga.org/themes/aiga/logo.svg)
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

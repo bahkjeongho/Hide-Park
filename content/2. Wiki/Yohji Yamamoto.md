@@ -10,13 +10,13 @@ tags:
 Related:
   - "[[Yohji Yamamoto (Brand)]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|3 October 1943 (age 83)  <br><br>[Tokyo](https://en.wikipedia.org/wiki/Tokyo "Tokyo"), [Empire of Japan](https://en.wikipedia.org/wiki/Empire_of_Japan "Empire of Japan") (Now [Japan](https://en.wikipedia.org/wiki/Japan "Japan"))|

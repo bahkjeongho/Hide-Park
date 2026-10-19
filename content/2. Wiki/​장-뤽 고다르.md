@@ -7,7 +7,7 @@ Website:
 URL:
 tags:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

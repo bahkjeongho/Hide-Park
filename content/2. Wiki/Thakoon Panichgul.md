@@ -10,12 +10,12 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Founder, Editor-in-Chief, Designer` of [[HOMME girls]]
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

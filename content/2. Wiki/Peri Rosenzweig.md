@@ -12,11 +12,11 @@ tags:
 Related:
   - "[[HARDSTYLE]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

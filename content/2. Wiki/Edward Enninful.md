@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >`Editor, Founder & Chief Creative Officer` of [[EE72]]
 >`(Ex) Fashion Director` of [[i-D]]
 >`(Ex) Contributing Editor` of [[Vogue]] Italia & USA

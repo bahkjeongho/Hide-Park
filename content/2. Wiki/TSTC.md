@@ -13,7 +13,7 @@ tags:
 Related:
   - "[[김은서]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

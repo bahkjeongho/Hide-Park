@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Vivienne Isabel Swire<br><br>  <br>8 April 1941  <br><br>[Hollingworth](https://en.wikipedia.org/wiki/Hollingworth "Hollingworth"), Cheshire, England|

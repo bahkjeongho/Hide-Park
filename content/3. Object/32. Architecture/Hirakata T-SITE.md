@@ -25,5 +25,5 @@ Date:
 ---
 ---
 
->[! Summary]
+>[!Summary]
 

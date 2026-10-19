@@ -13,13 +13,13 @@ tags:
 Related:
   - "[[Gogeidai]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > [일본](https://namu.wiki/w/%EC%9D%BC%EB%B3%B8 "일본") [도쿄도](https://namu.wiki/w/%EB%8F%84%EC%BF%84%EB%8F%84 "도쿄도")에 모여 있는 다섯 곳의 명문 [사립](https://namu.wiki/w/%EC%82%AC%EB%A6%BD "사립") [미술대학](https://namu.wiki/w/%EB%AF%B8%EC%88%A0%EB%8C%80%ED%95%99 "미술대학")을 이르는 말이다.
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 
 ---
 

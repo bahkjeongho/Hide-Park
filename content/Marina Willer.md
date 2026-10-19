@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Partner` at [[Pentagram]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 
 ---
 

@@ -12,11 +12,11 @@ tags:
 Related:
   - "[[A$AP Rocky]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

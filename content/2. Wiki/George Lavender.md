@@ -8,7 +8,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Creative Director` of [[RGA by Design]]
 > `(Ex) Staff Member` of [[Wolff Olins]], [[COLLINS]], [[Mother Design]]
 

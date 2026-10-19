@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|わたなべ じゅんや  <br>渡辺淳弥<br><br>  <br>1961 (age 64–65)[[1]](https://en.wikipedia.org/wiki/Junya_Watanabe#cite_note-1)  <br><br>[Fukushima](https://en.wikipedia.org/wiki/Fukushima_Prefecture "Fukushima Prefecture"), Japan|

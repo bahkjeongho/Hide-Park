@@ -13,7 +13,7 @@ tags:
 Related:
 ---
 
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -23,5 +23,5 @@ As a duo, we work from idea to execution out of our Rotterdam-based studio (NL) 
 
 We love to build worlds that play with the real and imaginative, placing a strong focus on art direction and carefully arranged colours & compositions. As a result, our work is defined by a playful and cinematic approach with a love for the analog and imperfect.
 
-> [! Summary]
+> [!Summary]
 

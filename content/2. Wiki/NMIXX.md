@@ -10,7 +10,7 @@ tags:
 Related:
   - "[[JYP ENTERTAINMENT|JYP Ent.]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

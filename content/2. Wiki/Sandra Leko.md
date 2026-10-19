@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `(Ex) Art Director` of [[THE FACE]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

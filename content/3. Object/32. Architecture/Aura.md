@@ -24,6 +24,6 @@ Date:
 ---
 ---
 
->[! Summary]
+>[!Summary]
 
 ![](https://davidchipperfield.com/media/Projects/923-Amorepacific-Headquarters/923-dca-amorepacific-noshe-14.jpg)

@@ -26,6 +26,6 @@ Date:
 ---
 ---
 
->[! Summary]
+>[!Summary]
 
 ![](https://picturepark.cdn.herzogdemeuron.com/v/Fc6vOT53/)

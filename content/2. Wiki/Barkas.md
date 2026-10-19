@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > Barkas is an independent creative company founded in Copenhagen in 2014, with the belief that clarity leads to the best strategic and creative work.
 
-> [! Summary]
+> [!Summary]
 

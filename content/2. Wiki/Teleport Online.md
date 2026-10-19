@@ -11,7 +11,7 @@ tags:
 Related:
 Wikis:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -24,5 +24,5 @@ We execute the freshest ideas imaginable—or link them together into creations 
 _Teleport is also a campaign brand in its own right._  
 Through music, design, and game, we deliver a single message: “Teleport 도피.”
 
-> [! Summary]
+> [!Summary]
 

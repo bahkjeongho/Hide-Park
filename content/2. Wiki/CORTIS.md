@@ -11,7 +11,7 @@ Related:
   - "[[HYBE]]"
   - "[[BIGHIT MUSIC]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

@@ -8,10 +8,10 @@ tags:
   - Design-Studio
 Related:
 ---
->[! tldr]
+>[!tldr]
 >
 
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

@@ -13,13 +13,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
->[! Summary]
+>[!Summary]
 >|   |   |
 >|---|---|
 |[![](https://thumb.wikimedia.org/wikipedia/en/thumb/7/77/University_of_the_Arts_London.png/250px-University_of_the_Arts_London.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:University_of_the_Arts_London.png)<br><br>[Coat of arms](https://en.wikipedia.org/wiki/Coat_of_arms "Coat of arms") of the university|   |

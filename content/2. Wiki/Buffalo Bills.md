@@ -12,11 +12,11 @@ tags:
 Related:
   - "[[NFL]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

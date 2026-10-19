@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -20,5 +20,5 @@ Related:
 
 Normal is located in the Flat Iron Arts Building in Wicker Park.
 
-> [! Summary]
+> [!Summary]
 

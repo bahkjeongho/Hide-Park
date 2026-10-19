@@ -9,7 +9,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `(Ex) Designer` of [[Gretel]], [[Deacde]], [[XXIX]], [[Order]], [[2x4]]
 
 > [!Info]

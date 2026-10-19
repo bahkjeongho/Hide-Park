@@ -10,13 +10,13 @@ tags:
 Related:
   - "[[Odd Future]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Tyler Gregory Okonma<br><br>  <br>March 6, 1991 (age 35)  <br><br>[Hawthorne, California](https://en.wikipedia.org/wiki/Hawthorne,_California "Hawthorne, California"), U.S.|

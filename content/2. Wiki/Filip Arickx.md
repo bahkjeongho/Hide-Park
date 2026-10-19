@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[A.F.VANDEVORST]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

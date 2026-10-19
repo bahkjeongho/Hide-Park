@@ -11,7 +11,7 @@ tags:
 Related:
   - "[[Bureau Borsche]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -21,5 +21,5 @@ Related:
 
 Together, this team is committed to carrying the brand forward in innovative new ways while honoring its deep legacy.
 
-> [! Summary]
+> [!Summary]
 

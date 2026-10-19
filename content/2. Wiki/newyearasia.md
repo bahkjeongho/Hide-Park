@@ -18,7 +18,7 @@ Related:
   - "[[SONG SEOYOON]]"
   - "[[TAKANOHVSKAYA]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

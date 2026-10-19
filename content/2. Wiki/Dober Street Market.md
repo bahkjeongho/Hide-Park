@@ -11,13 +11,13 @@ tags:
 Related:
   - "[[Rei Kawakubo]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Industry|Retail|

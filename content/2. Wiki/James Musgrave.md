@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[XXIX]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

@@ -7,7 +7,7 @@ URL: https://www.linkedin.com/company/wolff-olins
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

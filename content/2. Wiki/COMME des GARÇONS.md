@@ -10,13 +10,13 @@ tags:
 Related:
   - "[[Rei Kawakubo]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Type|Public company|

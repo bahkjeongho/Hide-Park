@@ -10,7 +10,7 @@ tags:
 Related:
   - "[[THE BLACK LABEL]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

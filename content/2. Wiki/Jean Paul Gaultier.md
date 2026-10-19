@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|24 April 1952 (age 74)[[1]](https://en.wikipedia.org/wiki/Jean_Paul_Gaultier#cite_note-WhosWho-1)  <br><br>[Arcueil](https://en.wikipedia.org/wiki/Arcueil "Arcueil"), France|

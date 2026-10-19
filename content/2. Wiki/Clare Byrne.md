@@ -13,11 +13,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Fashion Director` of [[i-D]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

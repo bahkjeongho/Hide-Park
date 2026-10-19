@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Creative Direction` for [[Perfect Magazine]]
 
 > [!Info]
@@ -22,5 +22,5 @@ A graduate of the London College of Printing, Matt started off as art director o
   
 After graduating with first class honours from the Central Saint Martins Fine Art Film + Video degree course, Emma trained with some of the world’s leading cinematographers at Ridley Scott Associates. She went on to specialise in creating 16mm films for various music and fashion clients from Kylie Minogue to Gucci.
 
-> [! Summary]
+> [!Summary]
 

@@ -9,7 +9,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Creative Director` with [[Kanye West]] for [[Bully]], World Tour
 
 > [!Info]

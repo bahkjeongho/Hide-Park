@@ -13,7 +13,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -24,5 +24,5 @@ Related:
 
 DESIGNING PERENNIAL PRODUCTS. BUILDING BRANDS WITH AUTHENTICITY AND MEMORABILITY. SUPPORTING THE CAMERA INDUSTRY. EXPLORING WHAT’S NEXT. 10TH YEAR ANNIVERSARY
 
-> [! Summary]
+> [!Summary]
 

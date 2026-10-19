@@ -13,11 +13,11 @@ Related:
   - "[[NOVEMBRE GLOBAL]]"
 --
 -
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

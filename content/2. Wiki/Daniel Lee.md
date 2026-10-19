@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|22 January 1986 (age 40)  <br><br>[Bradford](https://en.wikipedia.org/wiki/Bradford "Bradford"), England|

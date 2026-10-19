@@ -12,7 +12,7 @@ Related:
   - "[[SM ENTERTAINMENT|SM Ent.]]"
 --
 -
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

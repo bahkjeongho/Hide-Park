@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Founder & Designer` of [[UNDERCOVER (Brand)|UNDERCOVER]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

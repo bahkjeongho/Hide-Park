@@ -10,7 +10,7 @@ Related:
   - "[[Simon Reynolds]]"
   - "[[k-punk]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

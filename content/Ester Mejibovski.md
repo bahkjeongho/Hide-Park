@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Art Director` of [[DAZED]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

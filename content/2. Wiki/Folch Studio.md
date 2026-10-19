@@ -13,7 +13,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -21,5 +21,5 @@ Related:
 
 Javier de la Presa, Paula López-Nuño, Nico Venturelli, Lídia Just, Maria Francàs, Paula Lavandera, Carlos Nogales, Zita Gácsi, Judith Cardona, Rebeca Muñoz
 
-> [! Summary]
+> [!Summary]
 

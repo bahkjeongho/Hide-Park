@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Christian Ernest Dior<br><br>  <br>21 January 1905  <br><br>[Granville](https://en.wikipedia.org/wiki/Granville,_Manche "Granville, Manche"), France|

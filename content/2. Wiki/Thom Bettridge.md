@@ -9,7 +9,7 @@ Related:
 ---
 [Interview (1)](https://www.novembermag.com/content/thom-bettridge/) | 
 
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

@@ -11,7 +11,7 @@ tags:
 Related:
   - "[[Alexander McQueen (Brand)]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

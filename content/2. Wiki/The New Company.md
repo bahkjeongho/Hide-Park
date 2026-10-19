@@ -14,7 +14,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -22,5 +22,5 @@ Related:
 
 Established in 2018 by Matt Luckhurst (ECD) and Seth Mroczka (President), The New Company works with category leaders and challengers to strategically articulate the company's vision and story and offer a breadth of capabilities that allow us to think through a brand's unique challenges from concept through to execution. We believe strategic insights drive innovation, that creativity requires experimentation and a dedication to craft, and that delivering effective solutions on time and on budget is our responsibility to our clients.
 
-> [! Summary]
+> [!Summary]
 

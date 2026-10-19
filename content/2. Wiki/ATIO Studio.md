@@ -13,13 +13,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > ATIO is a design studio based in Bergamo (Italy), working on the design of visual systems across multiple disciplines such as visual identity, web design, graphic design, exhibition and event communication, and digital content. 
 
-> [! Summary]
+> [!Summary]
 
 ---
 

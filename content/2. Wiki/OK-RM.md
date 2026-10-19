@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -26,5 +26,5 @@ US, Europe, Japan and China, OK-RM’s ongoing collaborations evidence fluency i
 Each project affords a designation of time for sustained research and investigation; OK-RM work closely with the granular structure of objects and ideas as much as to the wider culture that they inhabit. This duet between  
 the micro and macro, formal and relational, is a durational exercise, one that enables our work to meaningfully exist in, and participate with, the world.
 
-> [! Summary]
+> [!Summary]
 

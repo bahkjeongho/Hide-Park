@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[Starship Entertainment|Starship Ent.]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

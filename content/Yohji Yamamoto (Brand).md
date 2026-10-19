@@ -12,11 +12,11 @@ tags:
 Related:
   - "[[Yohji Yamamoto]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

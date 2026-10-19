@@ -12,13 +12,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > A branding agency in Londonand Los Angeles, liberating ideasthe world deserves
 
-> [! Summary]
+> [!Summary]
 
 ---
 

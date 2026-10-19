@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Founder & Host` of [[Design Matter]]
 > `Chair & Co-Founder` of [[SVA Masters in Branding]]
 > `President Emeritus` of [[AIGA]]
@@ -22,5 +22,5 @@ Related:
 
 Named “one of the most creative people in business” by _Fast Company_, “one of the most influential designers working today” by _Graphic Design USA_, and a “woman of influence” by _Success Magazine_, Debbie Millman has built a remarkable career at the intersection of design, storytelling, and cultural commentary.
 
-> [! Summary]
+> [!Summary]
 

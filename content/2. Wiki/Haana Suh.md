@@ -15,7 +15,7 @@ tags:
 Related:
 --
 -
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Stylist` for [[KiiiKiii]], [[NCT WISH]], etc.
 > `Former Visual Director` of [[TAMBURINS]]
 
@@ -23,7 +23,7 @@ Related:
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 
 ---
 

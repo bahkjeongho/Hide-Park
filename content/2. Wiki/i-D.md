@@ -7,7 +7,7 @@ URL:
 tags:
   - Fashion-Magazine
 ---
->[! tldr]
+>[!tldr]
 >
 
 > [!Info]
@@ -20,7 +20,7 @@ tags:
 - [[Thom Bettridge]] [Ex-Editor-in-Chief]
  
 - Brent David Freaney [Art Director]
-  | [IG](https://www.instagram.com/spamriskmissedcall/) | [Studio Website](https://www.specialoffer.inc/) | >[! tldr] tl;dr
+  | [IG](https://www.instagram.com/spamriskmissedcall/) | [Studio Website](https://www.specialoffer.inc/) | >[!tldr] tl;dr
 >
 
 > [!Info]

@@ -9,13 +9,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Solange Piaget Knowles<br><br>  <br>June 24, 1986 (age 40)  <br><br>[Houston](https://en.wikipedia.org/wiki/Houston "Houston"), Texas, US|

@@ -10,7 +10,7 @@ tags:
 Related:
   - "[[MODHAUS]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

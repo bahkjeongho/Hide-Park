@@ -10,7 +10,7 @@ Related:
   - "[[CCRU]]"
   - "[[가속주의]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

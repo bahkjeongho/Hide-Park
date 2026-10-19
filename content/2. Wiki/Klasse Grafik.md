@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -20,7 +20,7 @@ Related:
 
 The Hochschule für bildende Künste Hamburg (HFBK) is an artistic and scientific university. It offers a wide range of subjects, allowing students to study for an extensive combination of artistic and scientific qualifications. At its heart are the artistic studies chosen by students, plus project-specific and experimental working methods. In line with the strengths of free artistic learning, students are not bound to follow a fixed curriculum: there is no rigid structure of sequential units of learning content. Students work in studios, and are given intensive support by tutors in individual and group tutorials.
 
-> [! Summary]
+> [!Summary]
 
 Hochschule für bildende Künste Hamburg  
 Lerchenfeld 2  

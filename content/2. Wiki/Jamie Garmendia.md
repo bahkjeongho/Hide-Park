@@ -13,11 +13,11 @@ tags:
 Related:
   - "[[GAA Design Studio]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Founder` of [[GAA Design Studio]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

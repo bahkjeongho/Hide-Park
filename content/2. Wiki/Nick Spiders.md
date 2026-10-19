@@ -13,11 +13,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Creative Director, Video Director & Photographer` for [[Ken Carson]], [[Playboi Carti]], [[ALLDAY PROJECT]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

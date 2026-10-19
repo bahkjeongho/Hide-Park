@@ -14,7 +14,7 @@ tags:
 Related:
   - "[[Martin Margiela]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

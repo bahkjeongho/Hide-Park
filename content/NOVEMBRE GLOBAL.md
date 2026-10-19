@@ -11,13 +11,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > _Novembre Global_ is a platform for expression, guiding individuals and professionals in search of inspiration, new styles and emergent cultural trends.
 
-> [! Summary]
+> [!Summary]
 
 ---
 

@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `(Ex) Editor-in-Chief` of [[THE FACE]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

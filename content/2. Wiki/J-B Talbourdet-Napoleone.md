@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > `Creative Director` of [[M le Magazine du Monde]]
 
-> [! Summary]
+> [!Summary]
 

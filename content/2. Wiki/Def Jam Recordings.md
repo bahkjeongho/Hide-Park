@@ -9,13 +9,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Parent company|[Universal Music Group](https://en.wikipedia.org/wiki/Universal_Music_Group "Universal Music Group") (1998–present)  <br>**Previously:**  <br>[CBS Records Group](https://en.wikipedia.org/wiki/CBS_Records_International "CBS Records International") (1984–1991)  <br>[Sony Music Entertainment, Inc.](https://en.wikipedia.org/wiki/Sony_Music) (1991–1994)  <br>[PolyGram](https://en.wikipedia.org/wiki/PolyGram "PolyGram") (1994–1998)|

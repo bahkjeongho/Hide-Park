@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Creative Director` for [[Charli XCX]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

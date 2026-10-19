@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[METALS]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

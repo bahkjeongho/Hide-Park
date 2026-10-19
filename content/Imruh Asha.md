@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Fashion Director` at [[DAZED]]
 
 > [!Info]
@@ -22,5 +22,5 @@ Constantly working at the boundaries of the expected, Asha’s reputation for in
 
 Showcasing his taste for working with rising talents as well as more established names, Asha’s collaborators have included Carlijn Jacobs, Viviane Sassen, Paul Kooiker, Paolo Roversi, Rafael Pavarotti, Osma Harvilahti, Oliver Hadlee Pearch, Gabriel Moses, Jacobs+Talbourdet-Napoleone, Harley Weir, Martin Parr, Dan Tobin Smith, and Mark Kean. His work has appeared in magazines including Dazed, American Vogue, Vogue Italia, M Le Monde, Self Service, AnOther, and W, and his clients have included Hermès, Louis Vuitton, Gucci, Dior, Off-White, Botter, Jacquemus, Pucci, Moschino, Moncler, Kiko Kostadinov, and Calvin Klein, among others.
 
-> [! Summary]
+> [!Summary]
 

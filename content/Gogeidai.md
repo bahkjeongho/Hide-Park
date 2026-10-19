@@ -11,13 +11,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > [일본](https://namu.wiki/w/%EC%9D%BC%EB%B3%B8 "일본")의 국공립 예술대학의 총칭. 5대 국공립 예술(미술과 음악)대학이라는 뜻이다.
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 
 ---
 

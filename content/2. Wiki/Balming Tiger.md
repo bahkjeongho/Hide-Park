@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[CAM WITH US]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

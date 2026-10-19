@@ -14,7 +14,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -22,5 +22,5 @@ Related:
 
 We build brand strategy, visual identities, and design systems for the brands you stream, shop, travel with, and cheer for as fans. At the heart of it is **design for life** — creating work that feels human, vibrant, and genuinely part of everyday culture.
 
-> [! Summary]
+> [!Summary]
 

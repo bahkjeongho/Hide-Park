@@ -11,7 +11,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -19,7 +19,7 @@ Related:
 
 The music industry is once again at a crossroads. Streaming was supposed to democratize music, making it more equitable for all. That didn’t happen. Now the most famous artists are dominating the industry like never before, while everyone else is scrounging for pennies. What’s left of music media is chasing those same huge artists for an ever-decreasing slice of the SEO pie. Virality is king, stan armies run rampant, A.I. is ascendant. It can sometimes feel like the urge to make a meaningful connection with an artist, album, or song is almost passé.
 
-> [! Summary]
+> [!Summary]
 
 ---
 

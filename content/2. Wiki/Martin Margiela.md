@@ -11,7 +11,7 @@ tags:
 Related:
   - "[[Maison Margiela]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

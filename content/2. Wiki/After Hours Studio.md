@@ -13,7 +13,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -28,5 +28,5 @@ From early-stage founders to household names, we like close teams, good ideas an
 
 After Hours is open for business worldwide. Will travel (first class only). Please note we do observe office hours. The name was an oversigh
 
-> [! Summary]
+> [!Summary]
 

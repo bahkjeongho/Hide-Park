@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[남은욱]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

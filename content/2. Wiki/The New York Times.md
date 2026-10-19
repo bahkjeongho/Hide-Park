@@ -10,7 +10,7 @@ Wikis: https://en.wikipedia.org/wiki/The_New_York_Times
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

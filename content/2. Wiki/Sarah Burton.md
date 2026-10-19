@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Sarah Jane Heard<br><br>  <br>1974 (age 51–52)  <br><br>[Macclesfield, Cheshire](https://en.wikipedia.org/wiki/Macclesfield,_Cheshire "Macclesfield, Cheshire"), England|

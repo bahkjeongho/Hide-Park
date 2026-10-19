@@ -11,11 +11,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Member` of [[Valentine Worldwide]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

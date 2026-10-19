@@ -12,7 +12,7 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -24,5 +24,5 @@ Each collection reflects vision: to challenge convention and create garments tha
   
 crafts more than clothing; she shapes a narrative, inviting women into a universe of authenticity and expressive sophistication.
 
-> [! Summary]
+> [!Summary]
 

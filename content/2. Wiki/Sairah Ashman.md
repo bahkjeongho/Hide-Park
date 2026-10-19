@@ -10,11 +10,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Global CEO` of [[Wolff Olins]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

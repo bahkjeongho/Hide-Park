@@ -12,7 +12,7 @@ tags:
 Related:
   - "[[윤승림]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

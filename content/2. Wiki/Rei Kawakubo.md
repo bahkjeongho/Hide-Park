@@ -11,13 +11,13 @@ tags:
 Related:
   - "[[COMME des GARÇONS]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|11 October 1942 (age 84)  <br><br>Tokyo, Japan|

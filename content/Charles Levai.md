@@ -11,12 +11,12 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Creative Director` of [[MAYBE PARIS]]
 > `Creative Director at large` of [[W Magazine]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

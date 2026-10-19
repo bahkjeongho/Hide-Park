@@ -11,13 +11,13 @@ Wikis:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Cretive Director` for [[Beyoncé]], [[Chloe x Halle]]
  
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 
 
 ## Related Topics

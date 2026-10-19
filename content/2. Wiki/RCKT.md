@@ -9,7 +9,7 @@ Country/Region: Tokyo / Japan
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

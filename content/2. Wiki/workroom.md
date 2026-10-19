@@ -9,7 +9,7 @@ Related:
   - "[[workroom press]]"
   - "[[김형진]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

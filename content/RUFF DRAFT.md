@@ -13,7 +13,7 @@ tags:
 Related:
   - "[[노재훈]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -24,5 +24,5 @@ It's all about photography, video, and visual creativity
 *artist visual concept, planning and production : music video, album photos, promotions, design, etc.  
 *creating fashion editorials, films, etc. for online & offline
 
-> [! Summary]
+> [!Summary]
 

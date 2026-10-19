@@ -10,7 +10,7 @@ Related:
   - "[[Eddie Mandell]]"
   - "[[Chase Shewbridge]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

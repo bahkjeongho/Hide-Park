@@ -7,9 +7,9 @@ URL:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 
-> [! info]
+> [!info]
 > [[2. Wiki/Antikythera]] is a think tank focused on the reorientation of planetary computation as a philosophical, technological, and geopolitical force. Antikythera takes its name from the first known computerーthe Antikythera mechanismーwhich was an astronomical instrument used for navigation, prediction, and planning. The name serves as inspiration for investigations of computational technologies that reveal and accelerate planetary intelligence.
 > 
 > Antikythera is directed by philosopher of technology Benjamin Bratton. Founded in 2022 at the [Berggruen Institute](https://berggruen.org/), it is now its own 501(c)3 non-profit organization dedicated to supporting, publishing and amplifying research on planetary computation and the evolution of intelligence.

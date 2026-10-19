@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > LOS YORK ® IS AN AWARD-WINNING CREATIVE COMPANY — A PLACE WHERE DESIGNERS, WRITERS, ARTISTS, AND DIRECTORS COLLABORATE TO DISSOLVE THE BOUNDARIES BETWEEN IDEATION AND CREATION
 
-> [! Summary]
+> [!Summary]
 

@@ -11,7 +11,7 @@ Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
   - "[[NCT]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Director` of [[The Moment (Aidan Zamiri)]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

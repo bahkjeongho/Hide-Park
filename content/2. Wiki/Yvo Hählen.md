@@ -10,11 +10,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Co-Founder, Art Director & Graphic Designer` of [[Balmer Hählen]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

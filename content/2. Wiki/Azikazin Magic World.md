@@ -12,7 +12,7 @@ tags:
 Related:
   - "[[Lionclad]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -20,5 +20,5 @@ Related:
 
 
 
-> [! Summary]
+> [!Summary]
 

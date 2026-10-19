@@ -9,7 +9,7 @@ tags:
 Related:
   - "[[Kieran Press-Reynolds]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

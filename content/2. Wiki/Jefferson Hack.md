@@ -10,8 +10,8 @@ Related:
   - "[[AnOther]]"
   - "[[NOWNESS]]"
 ---
->[! tldr]
->>[! tldr] tl;dr
+>[!tldr]
+>>[!tldr] tl;dr
 >
 
 > [!Info]

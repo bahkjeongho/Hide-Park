@@ -10,7 +10,7 @@ tags:
 Related:
   - "[[AEDIA STUDIO]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >`Director` of [[AEDIA STUDIO]]
 
 > [!Info]

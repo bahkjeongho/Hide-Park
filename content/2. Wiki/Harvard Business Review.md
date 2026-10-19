@@ -12,11 +12,11 @@ tags:
 Related:
   - "[[Harvard University]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

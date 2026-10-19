@@ -13,7 +13,7 @@ tags:
 Related:
   - "[[University of the Arts London]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

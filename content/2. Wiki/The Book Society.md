@@ -10,7 +10,7 @@ tags:
 Related:
   - "[[Mediabus]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

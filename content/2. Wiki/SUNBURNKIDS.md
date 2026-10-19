@@ -13,11 +13,11 @@ tags:
 Related:
   - "[[BORDI Studio]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

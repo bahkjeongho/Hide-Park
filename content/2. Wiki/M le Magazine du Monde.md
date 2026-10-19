@@ -12,11 +12,11 @@ tags:
 Related:
   - "[[Le Monde]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

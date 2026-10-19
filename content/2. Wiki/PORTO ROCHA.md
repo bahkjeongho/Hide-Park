@@ -11,7 +11,7 @@ Related:
 Wikis:
 Country/Region:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -21,7 +21,7 @@ We help brands navigate complex challenges through work that is strategically ri
   
 From large-scale rebrands to independent initiatives, our hard-working systems prove that craft and scale can coexist.
 
-> [! Summary]
+> [!Summary]
 
 ---
 

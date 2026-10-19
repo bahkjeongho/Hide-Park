@@ -8,7 +8,7 @@ URL:
 tags:
 Related: "[[Plinth Media]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

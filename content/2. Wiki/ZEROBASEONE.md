@@ -10,7 +10,7 @@ tags:
 Related:
   - "[[WAKE ONE]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]

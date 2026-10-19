@@ -12,11 +12,11 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 > `Artistic Director` of [[CHANEL]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

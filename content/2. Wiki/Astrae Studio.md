@@ -12,7 +12,7 @@ Country/Region: "[[Copenhagen / Denmark]]"
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
@@ -22,5 +22,5 @@ Our practice moves between structure and intuition, developing strategic systems
 yet with space for new words, new rhythms and new articulations. Astrae is based in Copenhagen and  
 works internationally.
 
-> [! Summary]
+> [!Summary]
 

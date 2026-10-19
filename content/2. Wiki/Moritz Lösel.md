@@ -11,11 +11,11 @@ tags:
 Related:
   - "[[veryes]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

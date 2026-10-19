@@ -14,11 +14,11 @@ tags:
 Related:
   - "[[황철호]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 

@@ -15,13 +15,13 @@ Related:
   - "[[DAZED]]"
 --
 -
->[! tldr]
+>[!tldr]
 > `Editor-in-Chief` of [[DAZED]]
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 
 
 | [IG](https://www.instagram.com/ted_stansfield/) | [LinkedIn](https://www.linkedin.com/in/ted-stansfield-3666b022b/) |

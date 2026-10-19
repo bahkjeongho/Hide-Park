@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |Born|Manfred Thierry Mugler<br><br>  <br>21 December 1948  <br><br>[Strasbourg](https://en.wikipedia.org/wiki/Strasbourg "Strasbourg"), France|

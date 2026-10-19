@@ -10,13 +10,13 @@ Country/Region:
 tags:
 Related:
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
 > 
 
-> [! Summary]
+> [!Summary]
 > |   |   |
 |---|---|
 |born|April 1965 (age 61)  <br><br>[Besançon](https://en.wikipedia.org/wiki/Besan%C3%A7on "Besançon"), [France](https://en.wikipedia.org/wiki/France "France")|

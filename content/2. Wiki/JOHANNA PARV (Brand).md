@@ -13,7 +13,7 @@ tags:
 Related:
   - "[[Johanna Parv]]"
 ---
->[! tldr] tl;dr
+>[!tldr] tl;dr
 >
 
 > [!Info]
