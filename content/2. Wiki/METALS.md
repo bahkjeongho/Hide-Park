@@ -1,11 +1,9 @@
 ---
-aliases:
 topic: Creative Director
 IG: https://www.instagram.com/metals.us/
 Website: https://www.francfernandez.com/
 URL: https://www.instagram.com/francfernandez/
 Country/Region: New York / USA
-tags:
 Related:
   - "[[Eddie Mandell]]"
   - "[[Chase Shewbridge]]"

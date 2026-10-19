@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://ba-ton.kr/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

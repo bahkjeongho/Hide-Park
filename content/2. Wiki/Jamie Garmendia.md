@@ -1,15 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Graphic Designer]]"
   - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/gaa_designstudio/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
 Related:
   - "[[GAA Design Studio]]"
 ---

@@ -1,13 +1,8 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/dasomhahn/
 Website:
   - https://new-year.asia/artist/dasom-han/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[newyearasia]]"
 ---

@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://www.hondo.studio/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

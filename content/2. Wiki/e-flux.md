@@ -1,11 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://www.e-flux.com/
-URL:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

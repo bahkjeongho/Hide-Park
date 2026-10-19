@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Art Director]]"
   - "[[Creative Consultancy]]"
@@ -7,11 +6,6 @@ IG:
   - https://www.instagram.com/p/DeHbI22lvVJ/?img_index=1
 Website:
   - https://ericwrennoffice.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

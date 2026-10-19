@@ -1,15 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Design Agency]]"
 IG:
   - https://www.instagram.com/porto_rocha/
 Website: https://portorocha.com/
-URL:
-tags:
-Related:
-Wikis:
-Country/Region:
 ---
 >[!tldr] tl;dr
 >

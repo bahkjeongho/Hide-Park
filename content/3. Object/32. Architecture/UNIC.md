@@ -1,7 +1,5 @@
 ---
 title: UNIC
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Paris
@@ -12,15 +10,6 @@ year: 2020
 URL:
   - https://www.i-mad.com/projects/unic?status=Completed&page=2&category=Architecture
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

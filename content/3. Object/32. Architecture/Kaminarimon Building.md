@@ -1,7 +1,5 @@
 ---
 title: Chaoyang Park Plaza
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Beijing
@@ -13,15 +11,6 @@ year: 2017
 URL:
   - https://www.i-mad.com/projects/chaoyang-park-plaza?page=2&location=Asia
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

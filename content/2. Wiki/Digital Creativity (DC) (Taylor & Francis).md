@@ -1,7 +1,5 @@
 ---
 title: "Digital Creativity (DC)"
-aliases: []
-academy:
 Country/Region: "UK"
 language: "EN"
 discipline: "Design Studies"
@@ -13,7 +11,5 @@ subject_area:
   - "Digital Media"
 URL:
   - "https://www.tandfonline.com/journals/ndcr20"
-tags: []
-Related: []
 ---
 Focuses on digital design, creative technologies, interaction design, digital art, and creative practice.

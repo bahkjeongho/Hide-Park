@@ -1,5 +1,4 @@
 ---
-aliases:
 topic: Editor
 IG: https://www.instagram.com/steffyotka/
 Website: https://www.steffyotka.com/

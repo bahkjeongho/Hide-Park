@@ -1,7 +1,5 @@
 ---
 title: Cs Somme Café
-aliases:
-  - 
 architect:
   - "[[Kuma Kengo]]"
 city: Fukuoka
@@ -13,15 +11,6 @@ year: 2025
 URL:
   - https://kkaa.co.jp/en/project/cs-somme-cafe/
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

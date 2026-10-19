@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/loicaltaber/
 Website:
   - https://loicaltaber.fr/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

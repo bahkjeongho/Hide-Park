@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Magazine]]"
   - "[[Design Magazine]]"
@@ -7,11 +6,6 @@ IG:
   - https://www.instagram.com/framemagazine/
 Website:
   - https://frameweb.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

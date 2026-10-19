@@ -1,5 +1,4 @@
 ---
-aliases: []
 kind: "Biennale"
 Country/Region: "UK"
 topic:
@@ -7,7 +6,5 @@ topic:
 URL:
   - "https://londondesignbiennale.com/"
 rating: 3
-tags: []
-Related: []
 ---
 ![](https://a.storyblok.com/f/186937/1920x1297/280f4318bf/globalgoals_1_crediter_web-size.jpg)

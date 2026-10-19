@@ -1,13 +1,9 @@
 ---
 aliases:
   - NEWYEAR*
-topic:
 IG:
   -  https://www.instagram.com/newyear.asia/
 Website: https://new-year.asia/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[2eehyein]]"
   - "[[ANDY IERE KIM]]"

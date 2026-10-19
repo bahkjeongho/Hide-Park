@@ -1,7 +1,5 @@
 ---
 title: LIJ Airport
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Lishui
@@ -13,15 +11,6 @@ year: 2025
 URL:
   - https://www.i-mad.com/projects/lij-airport?status=Completed&page=2&category=Architecture
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

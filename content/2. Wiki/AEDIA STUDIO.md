@@ -1,15 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Creative Studio]]"
 IG: https://www.instagram.com/aediastudio/
-Website:
-URL:
-Country/Region:
-tags:
 Related:
   - "[[Jan Lee]]"
-Wikis:
 ---
 >[!tldr] tl;dr
 >

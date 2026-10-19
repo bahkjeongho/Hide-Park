@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://a-studio-a.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

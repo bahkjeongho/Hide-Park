@@ -1,7 +1,5 @@
 ---
 title: "Popular Music and Society (PMS)"
-aliases: []
-academy:
 Country/Region: "USA"
 language: "EN"
 discipline: "Music Studies"
@@ -13,7 +11,5 @@ subject_area:
   - "Popular Culture"
 URL:
   - "https://www.tandfonline.com/journals/rpms20"
-tags: []
-Related: []
 ---
 Research on popular music, music industries, audiences, identity, and culture.

@@ -1,11 +1,6 @@
 ---
 aliases:
   - 프레드릭 제임슨
-topic:
-IG:
-Website:
-URL:
-tags:
 ---
 >[!tldr] tl;dr
 >

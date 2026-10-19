@@ -1,14 +1,7 @@
 ---
-aliases:
 topic:
   - "[[Fashion Designer]]"
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Nicolas_Ghesqui%C3%A8re
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

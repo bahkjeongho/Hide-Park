@@ -1,13 +1,5 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Odd_Future
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

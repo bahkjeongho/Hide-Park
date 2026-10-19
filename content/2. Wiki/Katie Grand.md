@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Director]]"
 IG:
   - https://www.instagram.com/kegrand/
 Website:
   - https://katiegrand.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `Director` of [[Perfect Magazine]]

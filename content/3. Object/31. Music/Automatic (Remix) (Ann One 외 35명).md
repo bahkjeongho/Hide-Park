@@ -1,7 +1,5 @@
 ---
 title: Automatic (Remix)
-aliases:
-  - 
 artist:
   - "[[Ann One]]"
   - "[[B.E.D.]]"
@@ -40,19 +38,6 @@ artist:
   - "[[앤원]]"
   - "[[이하이]]"
 year: 2020
-genre: []
-Country/Region:
-type:
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
-URL:
 ---
 ---
 

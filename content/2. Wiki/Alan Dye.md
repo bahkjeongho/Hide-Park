@@ -1,14 +1,6 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/alancdye/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `Head` of Wearable Design at [[Meta]]

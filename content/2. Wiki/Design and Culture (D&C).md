@@ -1,6 +1,5 @@
 ---
 title: "Design and Culture (D&C)"
-aliases: []
 academy: "Design Studies Forum"
 Country/Region: "USA"
 language: "EN"
@@ -13,7 +12,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://www.tandfonline.com/journals/rfdc20"
-tags: []
-Related: []
 ---
 Publishes research on design theory, design history, design practice, and the cultural dimensions of design.

@@ -1,7 +1,5 @@
 ---
 title: Shenzhen Bay Culture Square
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Shenzen
@@ -13,15 +11,6 @@ year: 2026
 URL:
   - https://www.i-mad.com/projects/shenzhen-bay-culture-park?status=Completed
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

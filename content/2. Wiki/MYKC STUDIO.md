@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: http://www.mykc.kr/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

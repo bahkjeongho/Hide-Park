@@ -1,11 +1,4 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
-Country/Region:
-tags:
 Related:
   - "[[XXIX]]"
 ---

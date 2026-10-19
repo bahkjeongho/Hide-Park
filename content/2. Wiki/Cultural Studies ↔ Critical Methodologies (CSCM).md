@@ -1,7 +1,5 @@
 ---
 title: "Cultural Studies ↔ Critical Methodologies (CSCM)"
-aliases: []
-academy:
 Country/Region: "USA"
 language: "EN"
 discipline: "Cultural Studies"
@@ -14,7 +12,5 @@ subject_area:
   - "Media"
 URL:
   - "https://journals.sagepub.com/home/cuv"
-tags: []
-Related: []
 ---
 Focuses on critical and qualitative research methodologies.

@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Fashion Magazine]]"
   - "[[Magazine]]"
@@ -7,11 +6,6 @@ IG:
   - https://www.instagram.com/dustmagazine/
 Website:
   - https://dustmagazine.com/on-the-row-reviews-from-the-79th-cannes-film-festival/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

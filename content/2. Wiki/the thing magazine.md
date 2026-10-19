@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Media]]"
   - "[[Magazine]]"
@@ -7,9 +6,6 @@ topic:
 IG:
   - https://www.instagram.com/the.thing.magazine/
 Website: https://www.thethingmagazine.com/
-URL:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

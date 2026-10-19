@@ -1,14 +1,7 @@
 ---
-aliases:
 topic:
   - "[[Fashion Brand]]"
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Burberry
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

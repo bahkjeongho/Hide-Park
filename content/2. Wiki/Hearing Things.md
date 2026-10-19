@@ -1,15 +1,8 @@
 ---
-aliases:
 topic:
   - "[[Music Journalism]]"
 IG:
   - https://www.instagram.com/hearingthingsco/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

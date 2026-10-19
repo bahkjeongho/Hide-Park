@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - Video Director
   - Photographer
@@ -9,8 +8,6 @@ IG:
 Website: https://new-year.asia/artist/2eehyein/
 URL:
   - https://vimeo.com/2eehyein
-Country/Region:
-tags:
 Related:
   - "[[newyearasia]]"
 ---

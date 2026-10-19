@@ -1,6 +1,5 @@
 ---
 title: "International Journal of Art & Design Education (IJADE)"
-aliases: []
 academy: "National Society for Education in Art and Design"
 Country/Region: "UK"
 language: "EN"
@@ -14,7 +13,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://onlinelibrary.wiley.com/journal/14768070"
-tags: []
-Related: []
 ---
 Research on art education, design education, pedagogy, and creative learning.

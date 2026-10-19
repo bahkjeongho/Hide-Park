@@ -1,23 +1,8 @@
 ---
 title: 1000 gecs
-aliases:
-  - 
 artist:
   - "[[100 gecs]]"
 year: 2019
-genre: []
-Country/Region:
-type:
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
-URL:
 ---
 ---
 

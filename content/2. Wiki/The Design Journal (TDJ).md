@@ -1,6 +1,5 @@
 ---
 title: "The Design Journal (TDJ)"
-aliases: []
 academy: "European Academy of Design"
 Country/Region: "UK"
 language: "EN"
@@ -12,7 +11,5 @@ subject_area:
   - "Design"
 URL:
   - "https://www.tandfonline.com/journals/rfdj20"
-tags: []
-Related: []
 ---
 Research on design theory, design practice, design education, and design innovation.

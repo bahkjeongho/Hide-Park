@@ -1,7 +1,5 @@
 ---
 title: Clover House
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Okazaki
@@ -12,15 +10,6 @@ year: 2015
 URL:
   - https://www.i-mad.com/projects/clover-house?status=Completed&page=2
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

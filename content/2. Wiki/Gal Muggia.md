@@ -1,14 +1,10 @@
 ---
-aliases:
 topic:
   - Video Director
-IG:
 Website:
   - https://www.instagram.com/gmuggia/
 URL:
   - https://www.galmuggia.com/
-Country/Region:
-tags:
 Related:
   - "[[Vania Heyman]]"
 ---

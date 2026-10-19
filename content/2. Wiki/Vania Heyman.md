@@ -1,14 +1,10 @@
 ---
-aliases:
 topic:
   - Video Director
 IG:
   - https://www.instagram.com/vaniaheymann/
 Website:
   - https://www.vaniaheymann.com/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[Gal Muggia]]"
 ---

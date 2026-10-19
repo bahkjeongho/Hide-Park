@@ -1,11 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://edit.church/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[Mah Ferraz]]"
 ---

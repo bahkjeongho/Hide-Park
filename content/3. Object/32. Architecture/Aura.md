@@ -1,7 +1,5 @@
 ---
 title: Aura
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Miami
@@ -12,15 +10,6 @@ year: 2023
 year_note: Non
 URL:
   - https://www.i-mad.com/projects/aura?page=2
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

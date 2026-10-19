@@ -1,10 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://nobells.blog/
-URL:
-tags:
 Related:
   - "[[Kieran Press-Reynolds]]"
 ---

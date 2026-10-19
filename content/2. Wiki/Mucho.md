@@ -1,13 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://wearemucho.com/
-URL:
-Country/Region:
-tags:
-Related:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

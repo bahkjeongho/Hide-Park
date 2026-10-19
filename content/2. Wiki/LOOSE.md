@@ -1,14 +1,7 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/loose__c/
   - https://www.instagram.com/loose/
-Website:
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >`Creative Director` of [[Fred again..]]

@@ -1,7 +1,5 @@
 ---
 title: "PAJ: A Journal of Performance and Art (PAJ)"
-aliases: []
-academy:
 Country/Region: "USA"
 language: "EN"
 discipline: "Performance Studies"
@@ -13,7 +11,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://direct.mit.edu/psct"
-tags: []
-Related: []
 ---
 Journal covering performance art, theatre, contemporary art, and interdisciplinary artistic practice.

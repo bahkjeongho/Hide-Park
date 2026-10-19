@@ -1,23 +1,8 @@
 ---
 title: Norman Fucking Rockwell!
-aliases:
-  - 
 artist:
   - "[[Lana Del Rey]]"
 year: 2019
-genre: []
-Country/Region:
-type:
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
-URL:
 ---
 ---
 

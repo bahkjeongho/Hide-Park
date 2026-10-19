@@ -1,10 +1,6 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/workroompress/
 Website: https://workroompress.kr/
-URL:
-tags:
 Related:
   - "[[workroom]]"
   - "[[이동휘]]"

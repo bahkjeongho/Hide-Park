@@ -1,14 +1,7 @@
 ---
-aliases:
 topic:
   - "[[Fashion Designer]]"
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Riccardo_Tisci
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

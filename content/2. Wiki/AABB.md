@@ -1,11 +1,6 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/aabb.inc/
 Website: https://aabb.kr/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[석재원]]"
   - "[[백준열]]"

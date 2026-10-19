@@ -1,15 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Record Label]]"
-IG:
 Website:
   - https://warp.net/
-URL:
 Wikis: https://en.wikipedia.org/wiki/Warp_Records
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

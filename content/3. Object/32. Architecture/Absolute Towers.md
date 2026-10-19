@@ -1,7 +1,5 @@
 ---
 title: Absolute Towers
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Toronto
@@ -11,15 +9,6 @@ program:
 year: 2012
 URL:
   - https://www.i-mad.com/projects/absolute-towers
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

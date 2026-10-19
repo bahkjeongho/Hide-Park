@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Product Design]]"
 IG:
@@ -8,10 +7,6 @@ Website:
   - https://www.nuevo.tokyo/
 URL:
   - https://www.linkedin.com/in/alvarofalcon/?locale=en
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

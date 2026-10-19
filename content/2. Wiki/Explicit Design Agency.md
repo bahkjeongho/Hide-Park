@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://explicitstudio.hu/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

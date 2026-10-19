@@ -1,11 +1,6 @@
 ---
 aliases:
   - 데이즈드 스튜디오
-topic:
-IG:
-Website:
-URL:
-tags:
 Related:
   - "[[DAZED]]"
 ---

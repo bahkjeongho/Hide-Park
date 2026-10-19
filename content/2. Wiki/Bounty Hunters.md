@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Design Magazine]]"
 IG:
@@ -8,10 +7,6 @@ Website:
   - https://www.bounty-hunters.co.uk/
 URL:
   - https://www.linkedin.com/company/bh-bountyhunters/?originalSubdomain=uk
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

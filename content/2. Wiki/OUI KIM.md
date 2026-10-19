@@ -1,13 +1,8 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/oui_kim/
 Website:
   - https://new-year.asia/artist/oui-kim/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[newyearasia]]"
 ---

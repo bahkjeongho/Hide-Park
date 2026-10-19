@@ -1,7 +1,5 @@
 ---
 title: Yiwu GrandTheater
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Yiwu
@@ -13,15 +11,6 @@ year: 2026
 URL:
   - https://www.i-mad.com/projects/yiwu-grand-theater?page=3
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

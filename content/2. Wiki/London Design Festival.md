@@ -1,5 +1,4 @@
 ---
-aliases: []
 kind: "Design Festival"
 Country/Region: "UK"
 topic:
@@ -7,7 +6,5 @@ topic:
 URL:
   - "https://londondesignfestival.com/"
 rating: 4
-tags: []
-Related: []
 ---
 ![](https://londondesignfestival.com/img/opengraph.png)

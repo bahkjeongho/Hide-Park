@@ -1,11 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://the-brandidentity.com/
-URL:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

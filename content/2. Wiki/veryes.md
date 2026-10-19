@@ -1,12 +1,7 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/veryes.berlin/
 Website: https://www.veryes.co/
-URL:
 Country/Region: Berlin / Germany
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

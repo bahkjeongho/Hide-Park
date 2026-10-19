@@ -7,11 +7,6 @@ IG:
   - https://www.instagram.com/the_naive_side/
 Website:
   - https://www.the-naive-side.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

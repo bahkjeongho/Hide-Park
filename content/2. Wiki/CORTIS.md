@@ -1,12 +1,6 @@
 ---
 aliases:
   - 코르티스
-topic:
-IG:
-Website:
-URL:
-Country/Region:
-tags:
 Related:
   - "[[HYBE]]"
   - "[[BIGHIT MUSIC]]"

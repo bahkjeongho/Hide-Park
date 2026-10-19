@@ -1,15 +1,10 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/capsule.global/
 Website:
   - https://capsule.global/
 URL:
   - https://capsule.global/plaza
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

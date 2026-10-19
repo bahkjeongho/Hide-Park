@@ -1,7 +1,5 @@
 ---
 title: "International Journal of Cultural Studies (IJCS)"
-aliases: []
-academy:
 Country/Region: "UK"
 language: "EN"
 discipline: "Cultural Studies"
@@ -14,7 +12,5 @@ subject_area:
   - "Popular Culture"
 URL:
   - "https://journals.sagepub.com/home/ics"
-tags: []
-Related: []
 ---
 Major journal covering globalization, identity, media culture, and cultural politics.

@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Creative Studio]]"
   - "[[Design Studio]]"
@@ -7,11 +6,6 @@ IG:
   - https://www.instagram.com/weare.afterhours/
 Website:
   - https://afterhours.studio/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

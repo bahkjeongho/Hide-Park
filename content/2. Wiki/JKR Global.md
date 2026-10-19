@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://jkrglobal.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

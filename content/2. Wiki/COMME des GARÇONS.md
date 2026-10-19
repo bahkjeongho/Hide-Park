@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Comme_des_Gar%C3%A7ons
-Country/Region:
-tags:
 Related:
   - "[[Rei Kawakubo]]"
 ---

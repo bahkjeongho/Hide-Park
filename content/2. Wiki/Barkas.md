@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Company]]"
 IG:
   - https://www.instagram.com/barkas/
 Website:
   - https://barkas.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

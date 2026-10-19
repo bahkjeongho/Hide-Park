@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 kind: Competition
 Country/Region: France
 topic:
@@ -10,13 +8,6 @@ URL:
   - https://www.leclubdesda.org/pages/competition
   - 
 rating: 4
-tags:
-  - 
-Related:
-  - 
-IG:
-Website:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

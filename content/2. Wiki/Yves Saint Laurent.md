@@ -1,14 +1,7 @@
 ---
-aliases:
 topic:
   - "[[Fashion Designer]]"
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(designer)
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Pharrell_Williams
-Country/Region:
-tags:
 Related:
   - "[[N.E.R.D.]]"
   - "[[the Neptunes]]"

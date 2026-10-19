@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Director]]"
   - "[[Video Director]]"
 IG:
   - https://www.instagram.com/mikecarson/
 Website: https://www.mikecarson.tv/
-URL:
-Country/Region:
-tags:
-Related:
-Wikis:
 ---
 >[!tldr] tl;dr
 > `Creative Director` for [[Kendrick Lamar]], [[TEMS]], [[Apple Music]]

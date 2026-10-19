@@ -1,6 +1,5 @@
 ---
 title: "The Philosophical Quarterly (PQ)"
-aliases: []
 academy: "Scots Philosophical Association"
 Country/Region: "UK"
 language: "EN"
@@ -12,7 +11,5 @@ subject_area:
   - "Philosophy"
 URL:
   - "https://academic.oup.com/pq"
-tags: []
-Related: []
 ---
 Major journal covering all areas of philosophy, with a strong presence in analytic philosophy.

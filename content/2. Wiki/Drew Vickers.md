@@ -1,15 +1,8 @@
 ---
-aliases:
 topic:
   - "[[Photographer]]"
 IG:
   - https://www.instagram.com/drewvickers/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

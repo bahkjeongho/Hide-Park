@@ -1,9 +1,7 @@
 ---
-aliases:
 topic: "[[Magazine]]"
 IG: https://www.instagram.com/i_d/
 Website: https://i-d.co/
-URL:
 tags:
   - Fashion-Magazine
 ---

@@ -5,7 +5,6 @@ topic: Studio
 IG:
   - https://www.instagram.com/madarchitects/
 Website: https://www.i-mad.com/
-URL:
 tags:
   - Architecture
 Related:

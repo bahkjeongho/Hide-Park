@@ -1,7 +1,5 @@
 ---
 title: "Games and Culture (G&C)"
-aliases: []
-academy:
 Country/Region: "USA"
 language: "EN"
 discipline: "Media Studies"
@@ -13,7 +11,5 @@ subject_area:
   - "Popular Culture"
 URL:
   - "https://journals.sagepub.com/home/gac"
-tags: []
-Related: []
 ---
 Publishes research on video games, gaming culture, game industries, and interactive media.

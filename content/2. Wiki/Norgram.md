@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://www.norgram.co/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

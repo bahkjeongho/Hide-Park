@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Fashion Brand]]"
 IG:
   - https://www.instagram.com/juliekegels/
 Website:
   - https://www.juliekegels.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

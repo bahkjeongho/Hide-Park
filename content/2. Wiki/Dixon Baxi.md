@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://www.dixonbaxi.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Chelsea_College_of_Arts
-Country/Region:
-tags:
 Related:
   - "[[University of the Arts London|UAL]]"
 ---

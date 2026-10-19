@@ -1,11 +1,7 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/wolffolins/
 Website: https://www.wolffolins.com/
 URL: https://www.linkedin.com/company/wolff-olins
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

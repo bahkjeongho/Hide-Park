@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 kind: Design Week
 Country/Region: Germany
 topic:
@@ -10,13 +8,6 @@ URL:
   - https://berlindesignweek.com/
   - 
 rating: 5
-tags:
-  - 
-Related:
-  - 
-IG:
-Website:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

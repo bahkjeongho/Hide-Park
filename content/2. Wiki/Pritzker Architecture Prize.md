@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 kind: Prize
 Country/Region: USA
 topic:
@@ -10,13 +8,6 @@ URL:
   - https://www.pritzkerprize.com/
   - 
 rating: 3
-tags:
-  - 
-Related:
-  - 
-IG:
-Website:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

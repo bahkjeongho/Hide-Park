@@ -3,13 +3,6 @@ aliases:
   - CLUSTER
 topic:
   - "[[Creative Collective]]"
-IG:
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

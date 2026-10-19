@@ -1,7 +1,5 @@
 ---
 title: "Leonardo Music Journal (LMJ)"
-aliases: []
-academy:
 Country/Region: "USA"
 language: "EN"
 discipline: "Music Studies"
@@ -13,7 +11,5 @@ subject_area:
   - "Music"
 URL:
   - "https://direct.mit.edu/lmj"
-tags: []
-Related: []
 ---
 Annual journal focusing on experimental music, sound art, and technology-based musical practices.

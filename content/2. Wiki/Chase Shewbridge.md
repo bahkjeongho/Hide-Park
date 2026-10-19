@@ -1,11 +1,5 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/chaseshewbridge/
-Website:
-URL:
-Country/Region:
-tags:
 Related:
   - "[[METALS]]"
 ---

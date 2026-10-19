@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/smith_diction/
 Website:
   - https://smith-diction.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

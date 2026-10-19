@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Design Studio]]"
   - "[[Graphic Design]]"
@@ -7,11 +6,6 @@ IG:
   - https://www.instagram.com/atiostudio/
 Website:
   - https://atio.studio/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

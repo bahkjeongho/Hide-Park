@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Newspaper]]"
 IG:
   - https://www.lemonde.fr/
-Website:
-URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Le_Monde
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

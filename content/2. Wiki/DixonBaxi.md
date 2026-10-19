@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Brand Design]]"
   - "[[Design Studio]]"
@@ -8,11 +7,6 @@ IG:
   - https://www.instagram.com/dixonbaxi/
 Website:
   - https://www.dixonbaxi.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

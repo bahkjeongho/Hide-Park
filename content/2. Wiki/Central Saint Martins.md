@@ -3,13 +3,8 @@ aliases:
   - CSM
 topic:
   - "[[Art School]]"
-IG:
 Website:
   - arts.ac.uk/csm
-URL:
-Wikis:
-Country/Region:
-tags:
 Related:
   - "[[University of the Arts London]]"
 ---

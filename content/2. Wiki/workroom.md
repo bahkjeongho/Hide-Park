@@ -1,10 +1,6 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/workroompress/
 Website: http://workroom.kr/
-URL:
-tags:
 Related:
   - "[[workroom press]]"
   - "[[김형진]]"

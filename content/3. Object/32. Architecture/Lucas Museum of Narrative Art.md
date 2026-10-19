@@ -1,7 +1,5 @@
 ---
 title: Lucas Museum of Narrative Art
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Los Angeles
@@ -13,15 +11,6 @@ year: 2026
 URL:
   - https://www.i-mad.com/projects/lucas-museum-of-narrative-art?status=Completed
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

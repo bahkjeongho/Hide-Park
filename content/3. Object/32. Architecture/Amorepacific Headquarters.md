@@ -1,7 +1,5 @@
 ---
 title: Amorepacific Headquarters
-aliases:
-  - 
 architect:
   - "[[David Chipperfield]]"
 city: Seoul
@@ -11,15 +9,6 @@ program:
 year: 2017
 URL:
   - https://davidchipperfield.com/projects/amorepacific-headquarters
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

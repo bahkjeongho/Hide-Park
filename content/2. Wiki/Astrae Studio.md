@@ -1,16 +1,11 @@
 ---
-aliases:
 topic:
   - Design Studio
 IG:
   - https://www.instagram.com/astrae.studio/
 Website:
   - https://www.astrae.studio/
-URL:
-Wikis:
 Country/Region: "[[Copenhagen / Denmark]]"
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

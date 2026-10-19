@@ -1,6 +1,5 @@
 ---
 title: "Thresholds (Thresholds)"
-aliases: []
 academy: "MIT Department of Architecture"
 Country/Region: "USA"
 language: "EN"
@@ -13,7 +12,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://direct.mit.edu/thld"
-tags: []
-Related: []
 ---
 Journal addressing architecture, urbanism, spatial practice, and critical design discourse.

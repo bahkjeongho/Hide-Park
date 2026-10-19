@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 kind: Awards
 Country/Region: UK
 topic:
@@ -10,13 +8,6 @@ URL:
   - https://thefwa.com/
   - 
 rating: 4
-tags:
-  - 
-Related:
-  - 
-IG:
-Website:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

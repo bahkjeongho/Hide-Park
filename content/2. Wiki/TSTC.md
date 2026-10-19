@@ -7,9 +7,6 @@ IG:
   - https://www.instagram.com/tistcollective/
 Website:
   - https://tistcollective.kr/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[김은서]]"
 ---

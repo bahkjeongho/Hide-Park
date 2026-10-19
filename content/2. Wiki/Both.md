@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://both.studio/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

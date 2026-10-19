@@ -1,15 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/ruffdraft.online/
 Website:
   - https://ruff-draft.com/
-URL:
-Wikis:
-Country/Region:
-tags:
 Related:
   - "[[노재훈]]"
 ---

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 kind: Awards
 Country/Region: China
 topic:
@@ -11,13 +9,6 @@ URL:
   - 
 rating: 5
 note: Completed up to 2025
-tags:
-  - 
-Related:
-  - 
-IG:
-Website:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

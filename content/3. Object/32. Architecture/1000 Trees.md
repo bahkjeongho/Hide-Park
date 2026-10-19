@@ -1,7 +1,5 @@
 ---
 title: 1000 Trees
-aliases:
-  - 
 architect:
   - "[[Heatherwick Studio]]"
 city: Shanghai
@@ -13,15 +11,6 @@ year: 2021
 URL:
   - https://heatherwick.com/projects/buildings/1000trees/
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

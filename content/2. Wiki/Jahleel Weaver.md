@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Stylist]]"
 IG:
   - https://www.instagram.com/illjahjah/
 Website:
   - https://www.jwcreativestudio.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

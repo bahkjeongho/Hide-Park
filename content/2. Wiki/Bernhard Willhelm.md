@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Fashion Designer]]"
   - "[[Fashion Brand]]"
@@ -7,11 +6,6 @@ IG:
   - https://www.instagram.com/bernhardwillhelm/
 Website:
   - https://www.bernhardwillhelm.com/home
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://www.mahferraz.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

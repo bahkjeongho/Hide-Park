@@ -1,6 +1,5 @@
 ---
 title: "Leonardo (Leonardo)"
-aliases: []
 academy: "International Society for the Arts"
 Country/Region: "USA"
 language: "EN"
@@ -14,7 +13,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://leonardo.info/leonardo"
-tags: []
-Related: []
 ---
 Interdisciplinary journal exploring interactions between art, science, and technology.

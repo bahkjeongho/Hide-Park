@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/slapscreative/
 Website:
   - https://slapscreative.com/
-URL:
-Country/Region:
-tags:
-Related:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

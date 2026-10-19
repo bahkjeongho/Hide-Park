@@ -1,11 +1,7 @@
 ---
 aliases:
   - 크랙 매거진
-topic:
-IG:
 Website: https://crackmagazine.net/
-URL:
-tags:
 Related: "[[Plinth Media]]"
 ---
 >[!tldr] tl;dr

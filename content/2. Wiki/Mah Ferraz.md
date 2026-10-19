@@ -1,11 +1,7 @@
 ---
-aliases:
 topic: Film Editor
 IG: https://www.instagram.com/mahferraz/
 Website: https://www.mahferraz.com/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[Church]]"
 ---

@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/thenormalstudio/
 Website:
   - https://thenormalstudio.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,11 +1,7 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/fabrica.work/
 Website: https://www.fabrica.works/
-URL:
 Country/Region: Seoul / Korea
-tags:
 Related:
   - "[[남은욱]]"
 ---

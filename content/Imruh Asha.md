@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Stylist]]"
 IG:
   - https://www.instagram.com/imruh/
 Website:
   - https://www.artpartner.com/imruh-asha/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `Fashion Director` at [[DAZED]]

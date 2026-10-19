@@ -1,13 +1,4 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

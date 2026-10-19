@@ -1,7 +1,5 @@
 ---
 title: "OASE: Journal for Architecture (OASE)"
-aliases: []
-academy:
 Country/Region: "NL"
 language: "EN"
 discipline: "Design Studies"
@@ -13,7 +11,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://oasejournal.nl/en/"
-tags: []
-Related: []
 ---
 Journal dedicated to architecture, urbanism, design, and architectural theory.

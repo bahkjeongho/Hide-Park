@@ -1,11 +1,6 @@
 ---
 aliases:
   - 마크 피셔
-topic:
-IG:
-Website:
-URL:
-tags:
 Related:
   - "[[Simon Reynolds]]"
   - "[[k-punk]]"

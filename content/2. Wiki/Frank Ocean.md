@@ -1,13 +1,7 @@
 ---
 aliases:
   - 프랭크 오션
-topic:
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Frank_Ocean
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

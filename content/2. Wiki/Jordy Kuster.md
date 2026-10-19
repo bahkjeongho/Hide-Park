@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/jordykuster/
 Website:
   - https://www.jordy-kuster.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `Member` of [[MOUTHWASH Studio]]

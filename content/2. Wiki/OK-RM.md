@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/okrm_london/
 Website:
   - https://www.ok-rm.co.uk/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

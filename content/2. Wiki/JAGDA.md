@@ -1,5 +1,4 @@
 ---
-aliases: []
 kind: "Awards"
 Country/Region: "Japan"
 topic:
@@ -7,7 +6,5 @@ topic:
 URL:
   - "https://www.jagda.or.jp/"
 rating: 4
-tags: []
-Related: []
 ---
 ![](https://www.jagda.or.jp/wp/wp-content/themes/jagda/assets/images/ogimage.jpg)

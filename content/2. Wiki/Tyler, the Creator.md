@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Tyler,_the_Creator
-Country/Region:
-tags:
 Related:
   - "[[Odd Future]]"
 ---

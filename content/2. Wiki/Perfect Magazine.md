@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Fashion Magazine]]"
 IG:
   - https://www.instagram.com/theperfectmagazine/
 Website:
   - https://www.theperfectmagazine.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

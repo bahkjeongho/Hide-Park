@@ -1,7 +1,5 @@
 ---
 title: "Journal of Visual Culture (JVC)"
-aliases: []
-academy:
 Country/Region: "UK"
 language: "EN"
 discipline: "Visual Studies"
@@ -15,7 +13,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://journals.sagepub.com/home/VCU"
-tags: []
-Related: []
 ---
 Research on visual culture, image theory, visuality, and contemporary visual practices.

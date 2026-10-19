@@ -1,11 +1,4 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,11 +1,6 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/rgabydesign/
 Website: https://www.rga.com/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[George Lavender]]"
 ---

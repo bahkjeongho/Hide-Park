@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - Record Label
 IG:
@@ -8,9 +7,6 @@ Website:
   - https://shopsoundsupplyservice.kr/
 URL:
   - https://soundsupplyservice.bandcamp.com/music
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 kind: Design Week
 Country/Region: Austria
 topic:
@@ -10,13 +8,6 @@ URL:
   - https://www.viennadesignweek.at/
   - 
 rating: 4
-tags:
-  - 
-Related:
-  - 
-IG:
-Website:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

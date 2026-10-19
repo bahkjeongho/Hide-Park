@@ -1,12 +1,6 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/works.studio/
 Website: https://works.studio/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

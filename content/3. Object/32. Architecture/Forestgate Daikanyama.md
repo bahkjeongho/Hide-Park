@@ -1,7 +1,5 @@
 ---
 title: Forestgate Daikanyama
-aliases:
-  - 
 architect:
   - "[[Kuma Kengo]]"
 city: Tokyo
@@ -13,15 +11,6 @@ year: 2023
 URL:
   - https://kkaa.co.jp/en/project/forestgate-daikanyama/
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

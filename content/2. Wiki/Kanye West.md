@@ -1,16 +1,9 @@
 ---
-aliases:
 topic:
   - Artist
-IG:
-Website:
-URL:
-Wikis:
-Country/Region:
 tags:
   - Rapper
   - Hip-Hop
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,11 +1,6 @@
 ---
-aliases:
 topic: Journal
-IG:
 Website: https://journal.antikythera.org/
-URL:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 

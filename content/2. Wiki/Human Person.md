@@ -1,15 +1,11 @@
 ---
-aliases:
 topic:
   - Creative Studio
 IG:
   - https://www.instagram.com/humanprsn/
 Website:
   - https://humanperson.com/
-URL:
 Country/Region: Los Angeles / USA
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `Creative Show Direction` for [[Justin Bieber]], [[BTS]], [[Fred again..]], etc.

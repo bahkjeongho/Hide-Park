@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://g-g-s.kr/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

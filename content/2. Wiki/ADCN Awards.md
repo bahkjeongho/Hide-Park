@@ -1,5 +1,4 @@
 ---
-aliases: []
 kind: "Awards"
 Country/Region: "Germany"
 topic:
@@ -7,7 +6,5 @@ topic:
 URL:
   - "https://adcn.awardhub.org/"
 rating: 4
-tags: []
-Related: []
 ---
 ![](https://adcn.awardhub.org/images/userfiles/site-defaults/site-logo.png)

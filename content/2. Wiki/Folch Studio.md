@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Brand Design]]"
   - "[[Design Studio]]"
@@ -7,11 +6,6 @@ IG:
   - https://www.instagram.com/folchstudio/
 Website:
   - https://www.folchstudio.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

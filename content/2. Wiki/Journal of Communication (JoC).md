@@ -1,6 +1,5 @@
 ---
 title: "Journal of Communication (JoC)"
-aliases: []
 academy: "International Communication Association"
 Country/Region: "USA"
 language: "EN"
@@ -13,7 +12,5 @@ subject_area:
   - "Media"
 URL:
   - "https://academic.oup.com/joc"
-tags: []
-Related: []
 ---
 Leading journal in communication research covering media, communication theory, and empirical studies.

@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/pedro.ajo/
 Website:
   - https://www.pedroajo.com/?filter=all
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Brand Design]]"
 IG:
   - https://www.instagram.com/gaa.designstudio/
 Website:
   - https://www.gaadesign.studio/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 kind: Awards
 Country/Region: China
 topic:
@@ -10,13 +8,6 @@ URL:
   - https://awards.designsociety.cn/en
   - 
 rating: 1
-tags:
-  - 
-Related:
-  - 
-IG:
-Website:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

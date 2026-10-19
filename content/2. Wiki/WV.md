@@ -1,12 +1,6 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/wvdesign/
 Website: https://wvdesign.kr/work
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

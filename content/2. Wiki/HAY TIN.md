@@ -1,12 +1,6 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/haytin.label/
 Website: https://www.hay-tin.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

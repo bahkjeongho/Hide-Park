@@ -2,11 +2,7 @@
 aliases:
   - Dazed & Confused
   - 데이즈드
-topic:
-IG:
 Website: https://www.dazeddigital.com/
-URL:
-tags:
 Related:
   - "[[DAZED STUDIO]]"
   - "[[Dazed Media]]"

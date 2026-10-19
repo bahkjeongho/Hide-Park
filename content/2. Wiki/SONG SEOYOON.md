@@ -1,13 +1,8 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/nooyoesgnos/
 Website:
   - https://new-year.asia/artist/song-seoyoon/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[newyearasia]]"
 ---

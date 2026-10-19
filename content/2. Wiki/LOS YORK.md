@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Company]]"
 IG:
   - https://www.instagram.com/los_york/
 Website:
   - https://losyork.tv/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

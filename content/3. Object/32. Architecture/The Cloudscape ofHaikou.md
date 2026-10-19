@@ -1,7 +1,5 @@
 ---
 title: The Cloudscape ofHaikou
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Haikou
@@ -12,15 +10,6 @@ year: 2021
 URL:
   - https://www.i-mad.com/projects/the-cloudscape-library?status=Completed
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

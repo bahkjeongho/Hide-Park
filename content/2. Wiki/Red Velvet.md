@@ -1,11 +1,4 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
-Country/Region:
-tags:
 Related:
   - "[[SM ENTERTAINMENT|SM ENT.]]"
 ---

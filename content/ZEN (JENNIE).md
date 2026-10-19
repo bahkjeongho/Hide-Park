@@ -1,14 +1,6 @@
 ---
-aliases:
-Type:
 Artist:
   - "[[JENNIE]]"
-Creatives:
-Client:
-Date:
-URL:
-tags:
-Related:
 ---
 ---
 

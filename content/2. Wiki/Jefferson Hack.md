@@ -1,10 +1,4 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
-tags:
 Related:
   - "[[DAZED]]"
   - "[[AnOther]]"

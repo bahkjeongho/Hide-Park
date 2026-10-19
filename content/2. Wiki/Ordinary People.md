@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://ordinarypeople.info/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

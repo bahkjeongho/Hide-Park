@@ -1,12 +1,7 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/mathieuhuppe/
 Website: https://mathieuhuppe.com/
-URL:
 Country/Region: Paris / France
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

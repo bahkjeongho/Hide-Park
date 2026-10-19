@@ -1,16 +1,10 @@
 ---
 aliases:
   - AGI
-topic:
 IG:
   - https://www.instagram.com/agigraphic/
 Website:
   - https://a-g-i.org/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,6 +1,5 @@
 ---
 title: "Performance Research (PR)"
-aliases: []
 academy: "Performance Research Ltd."
 Country/Region: "UK"
 language: "EN"
@@ -14,7 +13,5 @@ subject_area:
   - "Theatre"
 URL:
   - "https://www.tandfonline.com/journals/tpar20"
-tags: []
-Related: []
 ---
 Interdisciplinary journal exploring performance theory and artistic practice.

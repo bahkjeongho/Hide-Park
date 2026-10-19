@@ -1,7 +1,5 @@
 ---
 title: Janu Dubai
-aliases:
-  - 
 architect:
   - "[[Herzog & DeMeuron]]"
 city: Dubai
@@ -14,15 +12,6 @@ program:
 year: 2023
 URL:
   - https://www.herzogdemeuron.com/projects/618-janu/
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

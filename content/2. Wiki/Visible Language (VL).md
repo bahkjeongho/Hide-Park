@@ -1,6 +1,5 @@
 ---
 title: "Visible Language (VL)"
-aliases: []
 academy: "Illinois Institute of Technology"
 Country/Region: "USA"
 language: "EN"
@@ -13,7 +12,5 @@ subject_area:
   - "Design"
 URL:
   - "https://www.visible-language.org"
-tags: []
-Related: []
 ---
 그래픽 디자인, 타이포그래피, 시각 커뮤니케이션 연구 분야에서 가장 오래된 저널 중 하나.

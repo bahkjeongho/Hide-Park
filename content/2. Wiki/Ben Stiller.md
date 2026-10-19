@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
 IG: https://www.instagram.com/benstiller/
-Website:
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

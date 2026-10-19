@@ -1,11 +1,8 @@
 ---
-aliases:
 topic: Fashion Brand
 IG: https://www.instagram.com/afvandevorst/
 Website: https://shop.afvandevorst.com/
-URL:
 Country/Region: Berlin / Germany
-tags:
 Related:
   - "[[An Vandevorst]]"
 ---

@@ -1,13 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://www.pentagram.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

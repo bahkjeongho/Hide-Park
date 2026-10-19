@@ -1,11 +1,6 @@
 ---
 aliases:
   - 장-뤽 고다르
-topic:
-IG:
-Website:
-URL:
-tags:
 ---
 >[!tldr] tl;dr
 >

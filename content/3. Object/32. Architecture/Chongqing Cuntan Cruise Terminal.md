@@ -1,7 +1,5 @@
 ---
 title: Chongqing Cuntan Cruise Terminal
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Chongquing
@@ -12,15 +10,6 @@ year: 2027
 URL:
   - https://www.i-mad.com/projects/chongqing-cuntan-cruise-terminal?page=5
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

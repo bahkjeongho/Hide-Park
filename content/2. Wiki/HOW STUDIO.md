@@ -1,16 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Branding Agency]]"
   - "[[Marketing Agency]]"
 IG:
   - https://www.instagram.com/how___studio/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

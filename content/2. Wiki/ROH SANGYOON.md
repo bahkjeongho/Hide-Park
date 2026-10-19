@@ -1,13 +1,8 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/rohsangyoon/
 Website:
   - https://new-year.asia/artist/roh-sangyoon/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[newyearasia]]"
 ---

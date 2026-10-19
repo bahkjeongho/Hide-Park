@@ -1,7 +1,5 @@
 ---
 title: "Afterimage: The Journal of Media Arts and Cultural Criticism"
-aliases: []
-academy:
 Country/Region: "USA"
 language: "EN"
 discipline: "Media Studies"
@@ -14,7 +12,5 @@ subject_area:
   - "Photography"
 URL:
   - "https://online.ucpress.edu/afterimage"
-tags: []
-Related: []
 ---
 Journal covering media arts, photography, film, visual culture, and cultural criticism.

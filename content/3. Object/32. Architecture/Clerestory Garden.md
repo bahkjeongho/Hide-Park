@@ -1,7 +1,5 @@
 ---
 title: Clerestory Garden
-aliases:
-  - 
 architect:
   - "[[KEY OPERATION]]"
 city: Tokyo
@@ -13,15 +11,6 @@ year: 2025
 URL:
   - https://www.keyoperation.com/en/archives/projects/small-building-in-nakaikebukuro-park/
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

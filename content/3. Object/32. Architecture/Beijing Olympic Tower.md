@@ -1,7 +1,5 @@
 ---
 title: Beijing Olympic Tower
-aliases:
-  - 
 architect:
   - "[[CCTC]]"
 city: Beijing
@@ -11,15 +9,6 @@ program:
 year: 2015
 URL:
   - https://cadg.com.cn/cn/works/668/
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

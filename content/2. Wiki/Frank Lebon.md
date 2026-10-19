@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - Photographer
   - Video Director
@@ -8,9 +7,6 @@ IG:
 Website: https://www.franklebon.co.uk/
 URL:
   - https://vimeo.com/franklebon
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

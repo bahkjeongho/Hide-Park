@@ -1,14 +1,8 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/teenageengineering/
 Website:
   - https://teenage.engineering/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

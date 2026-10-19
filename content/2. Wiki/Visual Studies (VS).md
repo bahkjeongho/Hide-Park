@@ -1,6 +1,5 @@
 ---
 title: "Visual Studies (VS)"
-aliases: []
 academy: "International Visual Sociology Association"
 Country/Region: "UK"
 language: "EN"
@@ -15,7 +14,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://www.tandfonline.com/journals/rvst20"
-tags: []
-Related: []
 ---
 Research on visual culture, images, photography, film, and visual communication.

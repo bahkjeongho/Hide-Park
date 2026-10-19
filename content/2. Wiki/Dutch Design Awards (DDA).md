@@ -1,6 +1,4 @@
 ---
-aliases:
-  - 
 kind: Awards
 Country/Region: Netherlands
 topic:
@@ -10,13 +8,6 @@ URL:
   - https://www.dutchdesignawards.nl/
   - 
 rating: 5
-tags:
-  - 
-Related:
-  - 
-IG:
-Website:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

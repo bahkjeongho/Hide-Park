@@ -1,7 +1,5 @@
 ---
 title: YueCheng Courtyard Kindergarten
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Beijing
@@ -12,15 +10,6 @@ year: 2020
 URL:
   - https://www.i-mad.com/projects/courtyard-kindergarten?status=Completed&page=2&category=Architecture
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

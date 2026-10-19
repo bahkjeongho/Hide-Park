@@ -1,14 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Media]]"
   - "[[Tech News]]"
 IG: https://www.instagram.com/wired/
 Website: https://www.wired.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr]
 >

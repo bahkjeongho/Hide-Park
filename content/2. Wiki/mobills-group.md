@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://mobills-group.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Yohji_Yamamoto
-Country/Region:
-tags:
 Related:
   - "[[Yohji Yamamoto (Brand)]]"
 ---

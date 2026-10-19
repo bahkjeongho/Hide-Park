@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - Video Director
 IG:
@@ -7,9 +6,6 @@ IG:
 Website:
   - https://new-year.asia/artist/byul-yun/
   - http://byulyun.kr/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[newyearasia]]"
 ---

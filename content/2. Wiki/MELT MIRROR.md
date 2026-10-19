@@ -1,15 +1,8 @@
 ---
-aliases:
 topic:
   - "[[Film Director]]"
 IG:
   - https://www.instagram.com/meltmirror/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

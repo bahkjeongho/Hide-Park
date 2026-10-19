@@ -1,7 +1,5 @@
 ---
 title: Ordos Museum
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Ordos
@@ -13,15 +11,6 @@ year: 2011
 URL:
   - https://www.i-mad.com/projects/ordos-museum?status=Completed&page=2&category=Architecture
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Art School]]"
 IG:
   - https://www.instagram.com/klassegrafik/
 Website:
   - https://klassegrafik.de/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

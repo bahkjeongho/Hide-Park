@@ -176,7 +176,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -242,11 +242,32 @@ plugins:
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
-      includeAll: true
+      includeAll: false
       includedProperties:
-        - description
-        - tags
         - aliases
+        - tags
+        - Country/Region
+        - year
+        - Related
+        - URL
+        - Website
+        - IG
+        - artist
+        - genre
+        - type
+        - architect
+        - city
+        - program
+        - kind
+        - rating
+        - topic
+        - subject_area
+        - subdiscipline
+        - discipline
+        - research_orientation
+        - publisher
+        - language
+        - academy
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

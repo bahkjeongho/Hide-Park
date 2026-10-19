@@ -1,12 +1,6 @@
 ---
-aliases:
 topic:
   - "[[K-Pop Idol]]"
-IG:
-Website:
-URL:
-Country/Region:
-tags:
 Related:
   - "[[SM ENTERTAINMENT|SM Ent.]]"
   - "[[NCT U]]"

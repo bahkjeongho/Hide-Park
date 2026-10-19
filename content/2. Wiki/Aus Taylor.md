@@ -1,13 +1,6 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/ausssssssssssssssssss/
-Website:
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `Creative Director` with [[Kanye West]] for [[Bully]], World Tour

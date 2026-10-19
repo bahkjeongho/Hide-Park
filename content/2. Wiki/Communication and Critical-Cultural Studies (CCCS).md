@@ -1,6 +1,5 @@
 ---
 title: "Communication and Critical/Cultural Studies (CCCS)"
-aliases: []
 academy: "National Communication Association"
 Country/Region: "USA"
 language: "EN"
@@ -14,7 +13,5 @@ subject_area:
   - "Popular Culture"
 URL:
   - "https://www.tandfonline.com/journals/rccc20"
-tags: []
-Related: []
 ---
 Publishes critical and cultural approaches to communication research.

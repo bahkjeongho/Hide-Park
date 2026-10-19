@@ -1,5 +1,4 @@
 ---
-aliases: []
 kind: "Awards"
 Country/Region: "Korea"
 topic:
@@ -9,7 +8,5 @@ topic:
 URL:
   - "https://kdesignaward.com/"
 rating: 2
-tags: []
-Related: []
 ---
 ![](https://kdesignaward.com/files/attach/site_image/site_image.1770708515.png)

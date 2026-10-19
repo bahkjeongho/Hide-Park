@@ -1,15 +1,8 @@
 ---
-aliases:
 topic:
   - "[[Stylist]]"
 IG:
   - https://www.instagram.com/danielleemerson_/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

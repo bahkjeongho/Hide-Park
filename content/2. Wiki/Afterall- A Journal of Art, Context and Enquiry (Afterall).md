@@ -1,6 +1,5 @@
 ---
 title: "Afterall: A Journal of Art, Context and Enquiry (Afterall)"
-aliases: []
 academy: "Afterall Research Centre"
 Country/Region: "UK"
 language: "EN"
@@ -12,7 +11,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://www.afterall.org/"
-tags: []
-Related: []
 ---
 Journal dedicated to contemporary art, curatorial practice, art theory, and critical discourse.

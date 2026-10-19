@@ -1,14 +1,8 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/azikazinmagicworld/
 Website:
   - https://azikazinmagicworld.com/news/
-URL:
-Wikis:
-Country/Region:
-tags:
 Related:
   - "[[Lionclad]]"
 ---

@@ -1,7 +1,5 @@
 ---
 title: "Antikythera Journal (Antikythera)"
-aliases: []
-academy:
 Country/Region: "INT"
 language: "EN"
 discipline: "Art History"
@@ -13,7 +11,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://journal.antikythera.org/"
-tags: []
-Related: []
 ---
 Journal focused on planetary computation, technology, ecology, and contemporary theory.

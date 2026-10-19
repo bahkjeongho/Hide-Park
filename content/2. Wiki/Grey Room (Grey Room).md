@@ -1,7 +1,5 @@
 ---
 title: "Grey Room (Grey Room)"
-aliases: []
-academy:
 Country/Region: "USA"
 language: "EN"
 discipline: "Art History"
@@ -13,7 +11,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://direct.mit.edu/grey"
-tags: []
-Related: []
 ---
 Journal focused on art, architecture, media, and cultural theory.

@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/byunveil/
 Website:
   - https://unveil.fr/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

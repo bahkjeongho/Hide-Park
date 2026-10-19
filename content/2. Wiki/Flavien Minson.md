@@ -7,11 +7,6 @@ IG:
   - https://www.instagram.com/flavienminson/
 Website:
   - https://bureauminson.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

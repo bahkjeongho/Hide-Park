@@ -1,13 +1,8 @@
 ---
-aliases:
 topic:
   - "[[K-Pop Idol]]"
-IG:
-Website:
 URL:
   - https://en.wikipedia.org/wiki/%26Team
-Country/Region:
-tags:
 Related:
   - "[[HYBE]]"
 ---

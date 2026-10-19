@@ -1,15 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/thisiscollins/
 Website: https://www.wearecollins.com/
-URL:
-Country/Region:
-tags:
-Related:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

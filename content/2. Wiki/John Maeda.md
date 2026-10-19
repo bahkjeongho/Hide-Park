@@ -1,15 +1,9 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/johnmaeda/
 Website:
   - https://maedastudio.com/
-URL:
 Wikis: https://en.wikipedia.org/wiki/John_Maeda
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `(Ex) President & CEO` of [[RISD]]

@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Design Magazine]]"
 IG:
   - https://www.instagram.com/print_mag/
 Website:
   - https://www.printmag.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

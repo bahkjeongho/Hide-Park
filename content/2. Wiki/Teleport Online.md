@@ -1,15 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Creative Agency]]"
 IG:
   - https://www.instagram.com/teleport_online_com/
 Website: https://www.teleport-online.com/
-URL:
-Country/Region:
-tags:
-Related:
-Wikis:
 ---
 >[!tldr] tl;dr
 >

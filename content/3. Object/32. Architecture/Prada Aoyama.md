@@ -1,7 +1,5 @@
 ---
 title: Prada Aoyama
-aliases:
-  - 
 architect:
   - "[[Herzog & DeMeuron]]"
 city: Tokyo
@@ -12,15 +10,6 @@ year: 2003
 URL:
   - https://www.herzogdemeuron.com/projects/178-prada-aoyama/
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

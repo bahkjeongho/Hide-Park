@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: http://en.ziad.cn/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

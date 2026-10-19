@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Studio]]"
 IG:
   - https://www.instagram.com/ameliastudios/
 Website:
   - https://ameliastudios.co.uk/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

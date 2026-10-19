@@ -1,13 +1,5 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Roc_Nation
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

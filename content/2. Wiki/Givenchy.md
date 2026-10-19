@@ -1,13 +1,6 @@
 ---
-aliases:
-topic:
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Givenchy
 Country/Region: "[[Paris / Francs]]"
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

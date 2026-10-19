@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - Fashion Brand
 IG:
@@ -8,8 +7,6 @@ Website:
   - https://www.johannaparv.com/
 URL:
   - https://www.linkedin.com/company/johanna-parv/?originalSubdomain=uk
-Country/Region:
-tags:
 Related:
   - "[[Johanna Parv]]"
 ---

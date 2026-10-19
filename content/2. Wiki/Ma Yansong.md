@@ -1,11 +1,7 @@
 ---
 aliases:
   - Ma Yan Song
-topic:
 IG: "\thttps://www.instagram.com/mayansong_mad/"
-Website:
-URL:
-tags:
 Related:
   - "[[MAD]]"
 ---

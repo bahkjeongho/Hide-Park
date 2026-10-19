@@ -1,6 +1,5 @@
 ---
 title: "The British Journal of Aesthetics (BJA)"
-aliases: []
 academy: "British Society of Aesthetics"
 Country/Region: "UK"
 language: "EN"
@@ -15,7 +14,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://academic.oup.com/bjaesthetics"
-tags: []
-Related: []
 ---
 Leading journal in philosophical aesthetics and philosophy of art.

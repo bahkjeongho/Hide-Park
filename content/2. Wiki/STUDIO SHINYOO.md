@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Furniture Design]]"
 IG:
   - https://www.instagram.com/studio_shinyoo/
 Website:
   - https://studioshinyoo.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

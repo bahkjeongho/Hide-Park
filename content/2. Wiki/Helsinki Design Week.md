@@ -1,5 +1,4 @@
 ---
-aliases: []
 kind: "Design Week"
 Country/Region: "Finland"
 topic:
@@ -7,7 +6,5 @@ topic:
 URL:
   - "https://helsinkidesignweek.com/?lang=en"
 rating: 4
-tags: []
-Related: []
 ---
 ![](https://helsinkidesignweek.com/wp-content/uploads/2026/06/hdw-web_page-stuff-02-2-1024x576.jpg)

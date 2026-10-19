@@ -3,15 +3,9 @@ aliases:
   - UAL
 topic:
   - "[[Art School]]"
-IG:
-Website:
-URL:
 Wikis:
   - https://en.wikipedia.org/wiki/University_of_the_Arts_London
   - https://namu.wiki/w/%EB%9F%B0%EB%8D%98%20%EC%98%88%EC%88%A0%EB%8C%80%ED%95%99%EA%B5%90
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

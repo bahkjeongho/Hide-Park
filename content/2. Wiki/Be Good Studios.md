@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Agency]]"
 IG:
   - https://www.instagram.com/beg00dstudios/
 Website:
   - https://begoodstudios.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

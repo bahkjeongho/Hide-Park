@@ -1,16 +1,10 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/debbiemillman/
 Website:
   - https://debbiemillman.com/
-URL:
 Wikis:
   - https://en.wikipedia.org/wiki/Debbie_Millman
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `Founder & Host` of [[Design Matter]]

@@ -1,15 +1,8 @@
 ---
-aliases:
 topic:
   - "[[Design Studio]]"
 IG:
   - https://www.instagram.com/leonardo_angelucci/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `Part` of [[Unstated International]]

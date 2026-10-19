@@ -1,7 +1,5 @@
 ---
 title: "Cultural Studies (CS)"
-aliases: []
-academy:
 Country/Region: "UK"
 language: "EN"
 discipline: "Cultural Studies"
@@ -14,7 +12,5 @@ subject_area:
   - "Popular Culture"
 URL:
   - "https://www.tandfonline.com/journals/rcus20"
-tags: []
-Related: []
 ---
 Foundational journal in cultural studies.

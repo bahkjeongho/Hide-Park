@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://odotoo.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

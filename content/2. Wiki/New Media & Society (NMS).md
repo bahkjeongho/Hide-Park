@@ -1,7 +1,5 @@
 ---
 title: "New Media & Society (NMS)"
-aliases: []
-academy:
 Country/Region: "UK"
 language: "EN"
 discipline: "Media Studies"
@@ -14,7 +12,5 @@ subject_area:
   - "Popular Culture"
 URL:
   - "https://journals.sagepub.com/home/NMS"
-tags: []
-Related: []
 ---
 Leading journal on digital media, internet culture, platforms, communication technologies, and their social implications.

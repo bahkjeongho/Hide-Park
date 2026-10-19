@@ -1,12 +1,9 @@
 ---
-aliases:
 topic: Studio
 IG: https://www.instagram.com/bureauborsche
 Website: https://bureauborsche.com/
-URL:
 tags:
   - Design-Studio
-Related:
 ---
 >[!tldr]
 >

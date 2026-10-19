@@ -1,14 +1,7 @@
 ---
-aliases:
 topic:
   - "[[Fashion Designer]]"
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Thierry_Mugler
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

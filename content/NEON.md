@@ -1,14 +1,6 @@
 ---
-aliases:
-Type:
 Artist:
   - "[[A2O LITE]]"
-Creatives:
-Client:
-Date:
-URL:
-tags:
-Related:
 ---
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: "Res: Anthropology and Aesthetics (RES)"
-aliases: []
-academy:
 Country/Region: "USA"
 language: "EN"
 discipline: "Art History"
@@ -12,7 +10,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://www.journals.uchicago.edu/loi/res"
-tags: []
-Related: []
 ---
 Interdisciplinary journal exploring relationships between anthropology, aesthetics, material culture, and art.

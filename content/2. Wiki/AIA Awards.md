@@ -1,5 +1,4 @@
 ---
-aliases: []
 kind: "Awards"
 Country/Region: "USA"
 topic:
@@ -7,7 +6,5 @@ topic:
 URL:
   - "https://www.aia.org/design-excellence/awards"
 rating: 4
-tags: []
-Related: []
 ---
 ![](https://www.aia.org/sites/default/files/styles/16_9_1300x731/public/2024-05/harkin-north-facade.jpg?h=3bc16ef9&itok=XaRM7WGG)

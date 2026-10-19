@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - "[[Sculptor]]"
   - "[[Set Designer]]"
@@ -7,11 +6,6 @@ IG:
   - https://www.instagram.com/xrrusty/
 Website:
   - https://11thhouseagency.com/artist/rusty-snyder
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

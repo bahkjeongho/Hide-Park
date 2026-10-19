@@ -1,5 +1,4 @@
 ---
-aliases:
 topic:
   - D.O.P.
 IG:
@@ -7,8 +6,6 @@ IG:
 Website: https://new-year.asia/artist/andy-iere-kim/
 URL:
   - https://vimeo.com/andyierekim
-Country/Region:
-tags:
 Related:
   - "[[newyearasia]]"
 ---

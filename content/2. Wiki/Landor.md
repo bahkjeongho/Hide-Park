@@ -1,11 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://landor.com/en/
-URL:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

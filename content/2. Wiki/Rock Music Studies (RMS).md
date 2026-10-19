@@ -1,7 +1,5 @@
 ---
 title: "Rock Music Studies (RMS)"
-aliases: []
-academy:
 Country/Region: "UK"
 language: "EN"
 discipline: "Music Studies"
@@ -13,7 +11,5 @@ subject_area:
   - "Popular Culture"
 URL:
   - "https://www.tandfonline.com/journals/rrms20"
-tags: []
-Related: []
 ---
 Dedicated to the study of rock music and its cultural, historical, and aesthetic dimensions.

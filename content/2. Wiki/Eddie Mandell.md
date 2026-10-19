@@ -1,11 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: https://eddiemandell.com/
-URL:
-Country/Region:
-tags:
 Related:
   - "[[METALS]]"
 ---

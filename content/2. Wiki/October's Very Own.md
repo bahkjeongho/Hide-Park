@@ -1,14 +1,8 @@
 ---
-aliases:
 topic:
   - "[[Fashion Brand]]"
 IG:
   - https://www.instagram.com/octobersveryown/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
 Related:
   - "[[Drake]]"
 ---

@@ -1,15 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Fashion Designer]]"
-IG:
-Website:
 URL:
   - https://www.instagram.com/hedislimane/
 Wikis: https://en.wikipedia.org/wiki/Hedi_Slimane
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

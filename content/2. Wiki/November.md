@@ -1,12 +1,7 @@
 ---
 aliases:
   - novembermag
-topic:
-IG:
 Website: https://www.novembermag.com/
-URL:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

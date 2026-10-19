@@ -4,10 +4,7 @@ aliases:
 topic: Studio
 IG: https://www.instagram.com/xxix_co
 Website: https://www.xxix.co/
-URL:
 Country/Region: New York / USA
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

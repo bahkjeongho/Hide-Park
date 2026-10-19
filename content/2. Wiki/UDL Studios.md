@@ -4,10 +4,6 @@ aliases:
 topic: Design Studio
 IG: https://www.instagram.com/udl_studios/
 Website: https://u-d-l.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

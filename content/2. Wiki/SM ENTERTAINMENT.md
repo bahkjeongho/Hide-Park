@@ -2,13 +2,6 @@
 aliases:
   - SM Ent.
   - 에스엠 엔터테인먼트
-topic:
-IG:
-Website:
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

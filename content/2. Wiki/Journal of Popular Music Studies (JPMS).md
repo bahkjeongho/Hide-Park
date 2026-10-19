@@ -1,6 +1,5 @@
 ---
 title: "Journal of Popular Music Studies (JPMS)"
-aliases: []
 academy: "International Association for the Study of Popular Music (US Branch)"
 Country/Region: "USA"
 language: "EN"
@@ -13,7 +12,5 @@ subject_area:
   - "Popular Culture"
 URL:
   - "https://onlinelibrary.wiley.com/journal/15331598"
-tags: []
-Related: []
 ---
 Research on popular music, music culture, audiences, industries, and criticism.

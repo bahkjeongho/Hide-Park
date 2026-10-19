@@ -1,23 +1,8 @@
 ---
 title: Speaking in Tongues
-aliases:
-  - 
 artist:
   - "[[Talking Heads]]"
 year: 1983
-genre: []
-Country/Region:
-type:
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
-URL:
 ---
 ---
 

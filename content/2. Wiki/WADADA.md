@@ -6,12 +6,6 @@ topic:
   - "[[Graphic Designer]]"
 IG:
   - https://www.instagram.com/wadada.kr/
-Website:
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

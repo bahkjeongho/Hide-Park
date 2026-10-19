@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Creative Agency]]"
 IG:
   - https://www.instagram.com/weare23/
 Website:
   - https://www.weare23.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 > `Creative Direction` for [[Perfect Magazine]]

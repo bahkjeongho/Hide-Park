@@ -1,23 +1,8 @@
 ---
 title: Max & Match
-aliases:
-  - 
 artist:
   - "[[이달의 소녀 오드아이써클 -LOONA ODD EYE CIRCLE-|이달의 소녀 오드아이써클 (LOONA ODD EYE CIRCLE)]]"
 year: 2017
-genre: []
-Country/Region:
-type:
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
-URL:
 ---
 ---
 

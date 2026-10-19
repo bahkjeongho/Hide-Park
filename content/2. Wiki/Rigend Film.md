@@ -3,12 +3,9 @@ aliases:
   - 리전드 필름
   - 리전드
   - Rigend
-topic:
 IG: https://www.instagram.com/rigend.film/
 Website: https://www.rigend.com/
-URL:
 Country/Region: Seoul / Korea
-tags:
 Related:
   - "[[윤승림]]"
 ---

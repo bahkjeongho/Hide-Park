@@ -1,13 +1,9 @@
 ---
 aliases:
   - Rocket Company
-topic:
 IG: https://www.instagram.com/rckt_rocketcompany/
 Website: https://www.rckt.co.jp/
-URL:
 Country/Region: Tokyo / Japan
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

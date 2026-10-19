@@ -1,15 +1,8 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/novembreglobal/
 Website:
   - https://novembre.global/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

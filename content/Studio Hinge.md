@@ -1,15 +1,8 @@
 ---
-aliases:
-topic:
 IG:
   - https://www.instagram.com/studio_hinge/
 Website:
   - http://studio-hinge.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

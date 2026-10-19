@@ -1,16 +1,10 @@
 ---
-aliases:
 topic:
   - "[[Typography]]"
 IG:
   - https://www.instagram.com/typeroom.eu/
 Website:
   - https://www.typeroom.eu/about
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

@@ -1,7 +1,5 @@
 ---
 title: Tengyun Center (Tencent Cloudrise)
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Shenzen
@@ -13,15 +11,6 @@ year: 2026
 URL:
   - https://www.i-mad.com/projects/tencent-dachanwan?status=Completed&page=2&category=Architecture
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

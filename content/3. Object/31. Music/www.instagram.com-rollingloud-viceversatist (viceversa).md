@@ -1,23 +1,8 @@
 ---
 title: www.instagram.com/rollingloud/viceversatist
-aliases:
-  - 
 artist:
   - "[[viceversa]]"
 year: 2022
-genre: []
-Country/Region:
-type:
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
-URL:
 ---
 ---
 

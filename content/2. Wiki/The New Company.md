@@ -9,10 +9,6 @@ Website:
   - https://www.thenewcompany.com/
 URL:
   - https://www.are.na/new-co/channels
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

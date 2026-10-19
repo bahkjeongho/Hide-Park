@@ -1,14 +1,9 @@
 ---
-aliases:
 topic:
   - "[[Creative Agency]]"
 IG:
   - https://www.instagram.com/project3agency/
 Website: https://www.project3.agency/
-URL:
-Country/Region:
-tags:
-Related:
 Wikis:
   - "[[pgLang]]"
 ---

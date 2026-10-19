@@ -1,7 +1,5 @@
 ---
 title: Azabudai Hills
-aliases:
-  - 
 architect:
   - "[[Heatherwick Studio]]"
 city: Tokyo
@@ -14,15 +12,6 @@ year: 2023
 URL:
   - https://heatherwick.com/projects/buildings/azabudai-hills/
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

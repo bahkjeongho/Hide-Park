@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: http://muon-office.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

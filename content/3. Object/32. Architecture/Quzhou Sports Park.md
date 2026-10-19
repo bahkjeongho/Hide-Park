@@ -1,7 +1,5 @@
 ---
 title: Quzhou Sports Park
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Quzhou
@@ -12,15 +10,6 @@ year: 2026
 URL:
   - https://www.i-mad.com/projects/quzhou-sports-park?status=Completed
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: Harbin Opera House
-aliases:
-  - 
 architect:
   - "[[MAD]]"
 city: Harbin
@@ -13,15 +11,6 @@ year: 2015
 URL:
   - https://www.i-mad.com/projects/harbin-opera-house?status=Completed&page=2&category=Architecture
   - 
-tags:
-  - 
-Related:
-  - 
-Type:
-Artist:
-Creatives:
-Client:
-Date:
 ---
 ---
 

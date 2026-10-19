@@ -1,14 +1,7 @@
 ---
-aliases:
 topic:
   - "[[Fashion Brand]]"
-IG:
-Website:
-URL:
 Wikis: https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(fashion_house)
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

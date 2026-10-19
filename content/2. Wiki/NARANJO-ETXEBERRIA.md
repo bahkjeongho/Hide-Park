@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: http://naranjoetxeberria.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

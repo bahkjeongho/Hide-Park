@@ -1,7 +1,5 @@
 ---
 title: "Critical Inquiry (CI)"
-aliases: []
-academy:
 Country/Region: "USA"
 language: "EN"
 discipline: "Literature"
@@ -14,7 +12,5 @@ subject_area:
   - "Visual Art"
 URL:
   - "https://www.journals.uchicago.edu/toc/ci/current"
-tags: []
-Related: []
 ---
 Leading journal of critical theory, literary criticism, philosophy, and cultural analysis.

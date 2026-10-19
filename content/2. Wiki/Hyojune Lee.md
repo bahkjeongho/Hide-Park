@@ -1,12 +1,7 @@
 ---
-aliases:
 topic: "[[Designer]]"
 IG: https://www.instagram.com/p/DOOFnZTCQpq/?img_index=1
 Website: https://www.hyojunelee.com/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

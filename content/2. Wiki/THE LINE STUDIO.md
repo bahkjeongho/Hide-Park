@@ -7,11 +7,6 @@ IG:
   - https://www.instagram.com/thelineanimation/
 Website:
   - https://thelinestudio.com/
-URL:
-Wikis:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

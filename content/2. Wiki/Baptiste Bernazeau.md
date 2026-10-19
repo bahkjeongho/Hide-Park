@@ -1,12 +1,5 @@
 ---
-aliases:
-topic:
-IG:
 Website: http://baptiste.bernazeau.eu/
-URL:
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

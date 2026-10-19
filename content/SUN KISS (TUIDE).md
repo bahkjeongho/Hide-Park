@@ -1,13 +1,4 @@
 ---
-aliases:
-Type:
-Artist:
-Creatives:
-Client:
-Date:
-URL:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >

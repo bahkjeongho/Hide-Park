@@ -1,14 +1,7 @@
 ---
-aliases:
-topic:
-IG:
 Website:
   - https://www.xlrecordings.com/
-URL:
 Wikis: https://en.wikipedia.org/wiki/XL_Recordings
-Country/Region:
-tags:
-Related:
 ---
 >[!tldr] tl;dr
 >
