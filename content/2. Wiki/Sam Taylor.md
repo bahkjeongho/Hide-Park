@@ -1,0 +1,26 @@
+---
+aliases:
+topic:
+IG:
+Website:
+URL:
+Country/Region:
+tags:
+Related:
+  - "[[XXIX]]"
+---
+>[! tldr] tl;dr
+>
+
+> [!Info]
+> 
+> ![|200](https://xxix-sanity.b-cdn.net/images/yb96fmyv/production/42f2b6fcd83c541b0f6c675e4d90ab6db9a1494a-3405x4096.png?rect=167%2C0%2C3072%2C4096&w=256&q=80&auto=format&fit=max)
+> 
+> Sam is a strategist with a focus on human-centered digital experiences and community-driven brand thinking. He brings a grounded, people-first perspective to complex organizations, helping teams translate their values and programs into clear, navigable digital systems. His work spans experiential design at the New Museum and ICA VCU, and brand strategy for companies in finance and technology. He programs and stewards community spaces in Richmond, including Index and Ours. At garden3d, his work focuses on aligning structure, content, and experience around the people a platform is actually built to serve.
+
+# {{title}}
+
+## Key Concepts
+
+## Related Topics
+- [[]]

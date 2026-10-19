@@ -1,0 +1,23 @@
+---
+aliases:
+topic:
+  - "[[Art Director]]"
+  - "[[Creative Consultancy]]"
+IG:
+  - https://www.instagram.com/p/DeHbI22lvVJ/?img_index=1
+Website:
+  - https://ericwrennoffice.com/
+URL:
+Wikis:
+Country/Region:
+tags:
+Related:
+---
+>[! tldr] tl;dr
+>
+
+> [!Info]
+> ERIC WRENN OFFICE IS THE CREATIVE CONSULTANCY OF ART DIRECTOR ERIC WRENN. ESTABLISHED IN 2011, THE NEW YORK–BASED STUDIO HAS DEVELOPED A REPUTATION FOR NUANCED, DISTINCTIVE WORK PRODUCED FOR ARTISTS AND OTHER CREATIVE CLIENTS. FROM 2014 TO 2020 WRENN WAS DESIGN DIRECTOR OF ARTFORUM INTERNATIONAL. IN 2026 WRENN WAS APPOINTED GUEST ARTISTIC DIRECTOR OF LE MONDE D’HERMÈS, THE MAGAZINE OF HERMÈS.
+
+> [! Summary]
+

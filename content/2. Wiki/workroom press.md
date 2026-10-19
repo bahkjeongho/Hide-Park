@@ -1,0 +1,26 @@
+---
+aliases:
+topic:
+IG: https://www.instagram.com/workroompress/
+Website: https://workroompress.kr/
+URL:
+tags:
+Related:
+  - "[[workroom]]"
+  - "[[이동휘]]"
+  - "[[김형진]]"
+---
+>[! tldr] tl;dr
+>
+
+> [!Info]
+> 워크룸 프레스는 2006년 설립 이래 [디자인 스튜디오](http://workroom.kr/)를 운영하면서 미술, 디자인, 문학, 인문, 음악, 패션 분야의 책을 출간해 왔습니다. 2013년부터 [슬기와 민](https://www.sulki-min.com/wp/sulki-and-min-kr/)과 함께 임프린트 [작업실유령](https://workroompress.kr/product-category/book/?_book_series=c7ded534c3ad935eb4c2d2516c41457e)을 공동 운영하고 있습니다.
+
+Workroom Press is a publishing house and [graphic design studio](http://workroom.kr/). Launched in 2006, it has mainly published books in the fields of art, design, literature, humanities, music, and fashion. Since 2013, it has run a joint imprint, [Workroom Specter,](https://workroompress.kr/product-category/book/?_book_series=c7ded534c3ad935eb4c2d2516c41457e) with [Sulki and Min](https://www.sulki-min.com/wp/sulki-and-min/).
+
+# {{title}}
+
+## Key Concepts
+
+## Related Topics
+- [[]]

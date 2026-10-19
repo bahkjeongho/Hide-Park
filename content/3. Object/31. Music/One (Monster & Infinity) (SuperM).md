@@ -1,0 +1,25 @@
+---
+title: One (Monster & Infinity)
+aliases:
+  - 
+artist:
+  - "[[SuperM]]"
+year: 2020
+genre: []
+Country/Region:
+type:
+tags:
+  - 
+Related:
+  - 
+Type:
+Artist:
+Creatives:
+Client:
+Date:
+URL:
+---
+---
+
+>[! Summary]
+

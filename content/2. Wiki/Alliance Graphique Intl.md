@@ -1,0 +1,22 @@
+---
+aliases:
+  - AGI
+topic:
+IG:
+  - https://www.instagram.com/agigraphic/
+Website:
+  - https://a-g-i.org/
+URL:
+Wikis:
+Country/Region:
+tags:
+Related:
+---
+>[! tldr] tl;dr
+>
+
+> [!Info]
+> Alliance Graphique Internationale [AGI] is an association of over 500 designers working in the ever-expanding field of graphic design. Membership is drawn from nearly 50 countries, and entry is gained through nomination by AGI members and the approval of an annual international jury of members. The aim of the organisation is to encourage the development of graphic design – in the widest definition of the term – through its activities in education, public events, and the inspirational creative work, teaching, writing and lecturing of its members.
+
+> [! Summary]
+
