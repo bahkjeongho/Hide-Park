@@ -4,6 +4,7 @@ cd "$(dirname "$0")"
 
 VAULT="/Users/parkjeongho/Library/Mobile Documents/iCloud~md~obsidian/Documents/Hide Park"
 
+rm -rf content && mkdir content
 cp -R "$VAULT/." content/
 rm -rf "content/0. Clipping" "content/00. Template" content/.obsidian content/.smart-env
 find content -name ".DS_Store" -delete
