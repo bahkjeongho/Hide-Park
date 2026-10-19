@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bahkjeongho.github.io/Hide-Park
+  baseUrl: bahkjeongho.github.io/hide-park
   ignorePatterns:
     - private
     - templates
