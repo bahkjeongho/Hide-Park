@@ -6,7 +6,7 @@ VAULT="/Users/parkjeongho/Library/Mobile Documents/iCloud~md~obsidian/Documents/
 
 rm -rf content && mkdir content
 cp -R "$VAULT/." content/
-rm -rf "content/0. Clipping" "content/00. Template" content/.obsidian content/.smart-env
+rm -rf "content/0. Clipping Origin" "content/00. Template" content/.obsidian content/.smart-env
 find content -name ".DS_Store" -delete
 find content -name "*.md" -print0 | LC_ALL=C xargs -0 sed -i '' 's/\[! /[!/g'
 node clean-frontmatter.mjs content
