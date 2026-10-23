@@ -1,12 +1,24 @@
 ---
 aliases:
   - 프랭크 오션
-Wikis: https://en.wikipedia.org/wiki/Frank_Ocean
+topic:
+  - "[[Artist]]"
+Genre:
+  - "[[R&B]]"
+  - "[[Alternative R&B]]"
+IG:
+  - https://www.instagram.com/blonded/
+Website:
+  - https://blonded.co/
+Wikis:
+  - https://en.wikipedia.org/wiki/Frank_Ocean
+  - https://namu.wiki/w/%ED%94%84%EB%9E%AD%ED%81%AC%20%EC%98%A4%EC%85%98
 ---
 >[!tldr] tl;dr
 >
 
 > [!Info]
+> 
 
 >[!Summary]
 >|   |   |
@@ -25,3 +37,31 @@ Wikis: https://en.wikipedia.org/wiki/Frank_Ocean
 |Labels|- Blonded[[a]](https://en.wikipedia.org/wiki/Frank_Ocean#cite_note-2)<br>- [Def Jam](https://en.wikipedia.org/wiki/Def_Jam_Recordings "Def Jam Recordings")<br>- [RedZone](https://en.wikipedia.org/wiki/RedZone_Entertainment "RedZone Entertainment")|
 |Formerly of|[Odd Future](https://en.wikipedia.org/wiki/Odd_Future "Odd Future")|
 |Website|[blonded.co](http://blonded.co/)|
+
+---
+
+
+---
+
+## Discography
+
+### Studio Album
+
+- [[Channel Orange (Frank Ocean)|Channel Orange]] (2012)
+- [[Blonde (Frank Ocean)|Blonde]] (2016)
+
+### Mixtape
+
+- [[Nostalgia, Ultra. (Frank Ocean)|nostalgia, ULTRA]] (2011)
+
+### Visual Album
+
+- [[Endless (Frank Ocean)|Endless]] (2016)
+
+### EP
+
+- 
+
+### Single
+
+- 

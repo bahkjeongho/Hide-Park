@@ -12,9 +12,7 @@ Related:
 > 워크룸은 서울에 위치한 그래픽 디자인 스튜디오이자 출판사이다. 2006년 이래 주로 미술관, 박물관, 기획자, 미술가, 저술가와 협업하며 시각문화 전반과 연관된 작업을 해 왔으며 미술, 디자인, 문학, 인문 분야의 책을 출판한다. 임프린트 작업실유령을 슬기와 민과 공동 운영하고 있다.
 > Located in Seoul, Workroom is graphic design studio and a publishing house. It was launched in 2006, and has been working with clients mainly in the fields of arts and culture. Workroom runs Workroom-Specter, an imprint that was established in 2013 with Sulki and Min.
 
-02
-
-김형진
+02 [[김형진]]
 
 2006–
 
@@ -83,3 +81,6 @@ Related:
 2026–
 
 이화여자대학교에서 시각디자인을 전공하고 종이집을 운영한다.
+
+> [!Summary]
+

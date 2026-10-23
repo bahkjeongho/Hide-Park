@@ -5,7 +5,7 @@ IG:
   - https://www.instagram.com/chloemalle/
 ---
 >[!tldr] tl;dr
-> `Head of Editorial Content` of [[Vogue]] USA
+> `Head of Editorial Content` of [[VOGUE]] USA
 
 > [!Info]
 > 

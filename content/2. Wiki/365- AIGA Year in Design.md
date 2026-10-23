@@ -1,13 +1,9 @@
 ---
-kind: Awards
-Country/Region: USA
 topic:
-  - Multidisciplinary
+  - "[[Design Award]]"
 URL:
   - https://www.aiga.org/competitions-initiatives/365-aiga-year-in-design
-rating: 2
 ---
-![](https://www.aiga.org/themes/aiga/logo.svg)
 >[!tldr] tl;dr
 >
 
@@ -15,4 +11,5 @@ rating: 2
 > 
 
 > [!Summary]
+
 

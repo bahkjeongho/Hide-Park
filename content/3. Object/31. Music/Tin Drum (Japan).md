@@ -1,7 +1,7 @@
 ---
 title: Tin Drum
 artist:
-  - "[[Japan]]"
+  - "[[Japan (Band)]]"
 year: 1981
 ---
 ---

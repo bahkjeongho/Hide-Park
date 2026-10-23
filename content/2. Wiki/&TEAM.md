@@ -1,16 +1,26 @@
 ---
+aliases:
+  - 앤팀
 topic:
+  - "[[Artist]]"
   - "[[K-Pop Idol]]"
 URL:
   - https://en.wikipedia.org/wiki/%26Team
+  - https://namu.wiki/w/%26TEAM
+Countries:
+  - "[[South Korea]]"
+  - "[[Japan]]"
 Related:
   - "[[HYBE]]"
+  - "[[YX LABELS]]"
 ---
 >[!tldr] tl;dr
 >
 
 > [!Info]
-> 
+
+> [!Summary]
+
 
 ## Album
 

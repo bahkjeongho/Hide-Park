@@ -49,7 +49,7 @@
 	- Jean-Baptiste Talbourdet-napoleone [Creative Director] 
 	  | [IG](https://www.instagram.com/jbtalbourdet/) | 
 
-- [[L’ETIQUETTE]]
+- [[L'ÉTIQUETTE]]
 	- Marc Beagué [Co-Founder]
 	  | [Interveiw(1)](https://www.heavenraven.com/2020/07/08/interview-with-marc-beauge-co-founder-of-french-styling-magazine-letiquette/)
 	- Gauthier Borsarello [Co-Founder]

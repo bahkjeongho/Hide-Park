@@ -5,7 +5,7 @@ IG:
   - https://www.instagram.com/monkiepoo/
 ---
 >[!tldr] tl;dr
-> `Editor-in-Chief` of [[Vogue]] Singapore
+> `Editor-in-Chief` of [[VOGUE]] Singapore
 
 > [!Info]
 > 

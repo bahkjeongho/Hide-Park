@@ -13,14 +13,13 @@ Related:
 >
 
 > [!Info]
+> 
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
+---
 
-## Related Topics
-- [[]]
+## Interview
 
+- [[Brenda’s Business with MIRKO BORSCHE]] on [[032c]]
 
-
-[Interview (1)](https://magazine.032c.com/magazine/brenda-s-business-with-mirko-borsche) | 

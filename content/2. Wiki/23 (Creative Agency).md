@@ -5,6 +5,10 @@ IG:
   - https://www.instagram.com/weare23/
 Website:
   - https://www.weare23.com/
+Cities:
+  - "[[London]]"
+Countries:
+  - "[[UK]]"
 ---
 >[!tldr] tl;dr
 > `Creative Direction` for [[Perfect Magazine]]

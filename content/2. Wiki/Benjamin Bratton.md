@@ -1,15 +1,37 @@
 ---
 aliases:
   - 벤자민 브래튼
+topic:
+  - "[[Philosopher]]"
+IG:
+  - https://www.instagram.com/benjaminbratton/
+Website:
+  - https://bratton.info/
+URL:
+  - https://www.linkedin.com/in/bratton/
+Wikis:
+  - https://en.wikipedia.org/wiki/Benjamin_H._Bratton
 ---
 >[!tldr] tl;dr
->
+> `Professor of Philosophy of Technology` at [[University of California]], San Diego
+> `Director & Editor-in-Chief` of [[2. Wiki/Antikythera|Antikythera]]
 
 > [!Info]
+> [Benjamin Bratton](https://bratton.info/) is a philosopher of technology. He is Professor of Philosophy of Technology and Speculative Design at the University of California, San Diego. Through the lens of planetary computation, his work establishes new philosophical frameworks for interpreting the past, present and future co-evolution of life, culture, and technology.
 
-# Benjamin Bratton
+He is Director of [Antikythera](http://www.antikythera.xyz/), a think-tank researching the future of planetary computation based at the [Berggruen Institute](https://berggruen.org/). The program’s research focuses on five areas: [Planetary Computation](https://research.antikythera.org/), [Synthetic Intelligence](https://research.antikythera.org/#synthetic-intelligence), [Recursive Simulations](https://research.antikythera.org/#recursive-simulations), [Hemispherical Stacks,](https://research.antikythera.org/#hemispherical-stacks) and [Planetary Sapience](https://research.antikythera.org/#planetary-sapience). Antikythera hosts specialized design studios, such as [Cognitive Infrastructures](https://antikythera.org/archive/research/synthetic-intelligence#ci), [private salons](https://antikythera.org/salons) and seminars, as well as [public lectures and symposia](https://antikythera.org/lectures). Antikythera publishes a [journal](https://journal.antikythera.org/) and book series in collaboration with MIT Press.
 
-## Key Concepts
+Bratton directed two design research think-tanks based at Strelka Institute in Moscow, [The New Normal](https://web.archive.org/web/20241209012805/https://thenewnormal.strelka.com/publication-preview) and [The Terraforming](https://web.archive.org/web/20220831204739/https://theterraforming.strelka.com/), with Nicolay Boyadjiev. Over six years the programs hosted hundreds of faculty and researchers from 25 countries who collaborated on original projects modeling the past, present and future relationships between city, planet, culture and computation.
 
-## Related Topics
-- [[]]
+> [!Summary]
+> |   |   |
+|---|---|
+|Born|November 3, 1968 (age 57)  <br><br>[Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles "Los Angeles"), [California](https://en.wikipedia.org/wiki/California "California")|
+|Academic background|   |
+|Education|[University of California, Davis](https://en.wikipedia.org/wiki/University_of_California,_Davis "University of California, Davis") (BA); [University of California, Santa Barbara](https://en.wikipedia.org/wiki/University_of_California,_Santa_Barbara "University of California, Santa Barbara") (MA, [PhD](https://en.wikipedia.org/wiki/Doctorate "Doctorate"))|
+|[Thesis](https://en.wikipedia.org/wiki/Thesis "Thesis")|_Software After States: Google, Jihad and Geoscapes_ (2010)|
+|[Doctoral advisor](https://en.wikipedia.org/wiki/Doctoral_advisor "Doctoral advisor")|Roger Friedland|
+|Academic work|   |
+|Institutions|[Southern California Institute of Architecture](https://en.wikipedia.org/wiki/Southern_California_Institute_of_Architecture "Southern California Institute of Architecture") (2001–2009)  <br>[University of California, Los Angeles](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles "University of California, Los Angeles") (2003–2008)  <br>[University of California, San Diego](https://en.wikipedia.org/wiki/University_of_California,_San_Diego "University of California, San Diego") (2009–)  <br>[Strelka Institute](https://en.wikipedia.org/wiki/Strelka_Institute "Strelka Institute") (2016–2022)  <br>[Berggruen Institute](https://en.wikipedia.org/wiki/Berggruen_Institute "Berggruen Institute")  <br>[Google](https://en.wikipedia.org/wiki/Google "Google")|
+|Notable works|_The Stack: On Software and Sovereignty_ (2015), _The Revenge of the Real: Politics for a Post-Pandemic World_ (2021)|
+

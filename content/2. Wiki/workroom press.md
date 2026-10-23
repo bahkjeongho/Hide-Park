@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Publishing Compnay]]"
 IG: https://www.instagram.com/workroompress/
 Website: https://workroompress.kr/
 Related:
@@ -14,9 +16,5 @@ Related:
 
 Workroom Press is a publishing house and [graphic design studio](http://workroom.kr/). Launched in 2006, it has mainly published books in the fields of art, design, literature, humanities, music, and fashion. Since 2013, it has run a joint imprint, [Workroom Specter,](https://workroompress.kr/product-category/book/?_book_series=c7ded534c3ad935eb4c2d2516c41457e) with [Sulki and Min](https://www.sulki-min.com/wp/sulki-and-min/).
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
-
-## Related Topics
-- [[]]

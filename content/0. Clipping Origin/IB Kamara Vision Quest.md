@@ -1,0 +1,76 @@
+---
+title: "IB Kamara: Vision Quest"
+source: https://crackmagazine.net/article/profiles/ib-kamara-cover-story-interview/
+author:
+  - "[[Amel Mukhtar]]"
+  - "[[Crack Magazine]]"
+published: 2025-11-13
+created: 2026-10-08
+description: "Not content with shaping contemporary fashion, both as an editorial trendsetter and a creative director known for his trailblazing aesthetics, IB Kamara is embarking on a new challenge – one that reconnects him with his earliest passion: music."
+tags:
+  - articles
+  - clippings
+---
+```
+https://crackmagazine.net/article/profiles/ib-kamara-cover-story-interview/
+```
+> [!info] notes
+
+---
+
+[[Ib Kamara]] never stops evolving. Not content with shaping contemporary fashion, both as an editorial trendsetter and a creative director known for his trailblazing aesthetics, the Sierra Leone-born, London-raised multi-hyphenate is embarking on a new challenge – one that reconnects him with his earliest passion: music
+
+On a white *bouclé* sofa in the pristine lounge of his south London home, IB Kamara is scrolling through the images he shot of himself for this cover story. In some, he wears a jewelled flapper cap – a style signature of his – and in others, a choppy black, bumped-out wig. He flips from feline and alluring – eyes low, cheekbones like pow – to gentle and receptive, a soft gaze back at the camera. In a couple of shots he’s almost unrecognisable. “There’s so many versions of me,” he giggles.
+
+He’s not kidding. While Kamara would be, by any metric, an accomplished photographer (this is far from the first cover shoot under his belt), it doesn’t even make the top three things he’s famous for. As a stylist, designer and magazine boss, Kamara has risen to the very top floors of fashion. The current creative director at Off-White, he took the reins from longtime collaborator Virgil Abloh after his passing – a role he started while also serving as editor-in-chief of *Dazed*. Since leaving the magazine, he’s dressed Beyoncé, Donatella Versace and Kamala Harris, become the go-to stylist for *CR Fashion Book* and *Vogue*, and recently teamed up with Steven Meisel for a Gucci campaign. And that’s all just this year. Whatever the form, Kamara is a known master of image.
+
+![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/11/172-Cover-RGB-scaled.jpg)
+
+As if that’s not enough on his plate, Kamara is now turning his attention to sound, following the release of a five-track, 15-minute EP at the start of October. If you’d been paying attention, it was not out of the blue: these were the songs that soundtracked his newest Off-White collection the month before. By the end of the show, on either side of the runway, the normally stiff and poised fashionistas had to restrain themselves, lightly bopping their heads and tapping their feet. Full of funk and falsettos, [*Pop Romance*](https://open.spotify.com/album/0xiaJEM5yZBbED8E2zCbOO?si=_loeITrQRTG7TauI256CBg) is “African. It’s pop. It’s sensual… There’s a whisper,” Kamara says, in that mock- *Ab Fab* kind of way, with a little laugh. “There’s a yearning to get on the floor and dance… And I think there’s a lightness to it.” He has bleached-blond, cropped coils and a small gap in his teeth when he smiles. A playful look lights up his eyes. “I don’t take myself so seriously – I’m a Gemini.”
+
+IB Kamara is everything, everywhere, all at once. He hasn’t just lived several lives, he lives them *simultaneously*. Just look at his home. On the ground floor, an edgy young fashion assistant buzzes around an explosion of rails and boxes and clothes and products, swamping what appears to be a really nice kitchen beneath it all. Another assistant stands at the top of the stairs, taking orders for a Pret run. Somewhere up a couple of floors, there’s a recording studio. “A tiny recording studio,” he cautions. “But I record every day. I wake up in the morning and play a little bit of instrument here and there. I’ve been learning to produce.”
+
+![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/11/IB-Kamara-Portrait-Gallery-4.jpg) ![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/11/IB-Kamara-Portrait-Gallery-5.jpg)
+
+Jewellery: CHANEL, Scarf: LUIS DE JAVIER, Shoes: ALEXANDER MCQUEEN
+
+Over the past two or three years, it’s where Kamara has been quietly experimenting with his sound, playing around with guitar, keyboard and drums. Calling his community round, he would jam with R&B musician Azekel and close friend Karn, who helped with lyrics and sometimes sang background. After building some confidence, he travelled to Sweden to collaborate with Yukimi from Little Dragon, who he styled years ago, and her bandmate Erik. After a while, he realised he had made something pretty special. “I was like, *wow, I feel confident*. It might not be my \[forever\] sound, but it’s a body of work that, I think, deserves to be shared.” Despite all of his remarkable success in the world of fashion, this is where he feels his truest calling. “I wasn’t really into fashion,” Kamara confesses, recalling his childhood. “The dream was always to sing.”
+
+Growing up in Sierra Leone, young Ibrahim Kamara – or ‘Coachie’, as he was teasingly nicknamed for his preternatural ability to roll fufu into balls – first fell in love with singing through the church, singing in choirs. You can hear that gospel influence on *Pop Romance*: choral harmonising with a soulful slant. He grew up hearing Fela Kuti, Yondo Sister and bubu music, a style that comes from his Temne people. He sang all the time with his best friend. They’d belt out Whitney Houston songs together. “He had an incredible voice.” But: “I don’t think I had the greatest exposure to pop culture, due to how poor I grew up.” Through just a radio, he got to know and love Michael Jackson and [Prince](https://crackmagazine.net/article/long-reads/memories-of-an-icon-a-personal-reflection-on-the-peoples-prince/) and [Madonna](https://crackmagazine.net/tag/madonna/). “It was late that I was listening to, like, [André 3000](https://crackmagazine.net/article/profiles/andre-3000-cover-story-interview/). And I mean, Biggie – I found out about Biggie very late.” By the end of his teen years, he had discovered the more alternative sounds he tends to gravitate towards, as well as Grace Jones, [Missy Elliott](https://crackmagazine.net/tag/missy-elliott/) and Sylvester – all key influences today.
+
+![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/11/IB-Kamara-Portrait-Gallery-1.jpg)
+
+Full look: SAINT LAURENT BY ANTHONY VACCARELLO
+
+When civil war broke out in Sierra Leone, Kamara’s life was turned upside down. At seven years old, he suddenly had to escape. He left his world behind – that church, his best friend and at some stage had to separate from his mother. “I remember running. I remember lots of sea travel,” he recalls, eyes wide. “I hate being on a boat because of that. The smell takes me right back.” He and his father and brother jumped from village to village then on to neighbouring countries, never able to settle for long. “I remember being desensitised to death,” he says, voice low. Still through it all, “in your little mind, you’re still dreaming”. There’s a knowing smile at how crazy it seems. “It shaped me – I’m not so easily traumatised. I’ve got a stronger spirit to fight, to keep going, to dream bigger. Because I’ve seen it all.”
+
+When he arrived as a refugee in London in 2006, around the age of 16, he still wanted to be a musician, but his parents were against the idea. They wanted him to be realistic. To find something more stable. Around that time, he got into styling while working on a college magazine in Brixton, and decided that was the next best thing. “Fashion was maybe a safer expression in my parents’ eyes, because they thought I’d be a tailor or something – a nine-to-five,” he says. “They didn’t fully understand it, but they had, like, two percent hope that *maybe* he’d get something.” Still, they weren’t exactly happy. Kamara pushed back, moved out and “got so deep into fashion that I was like, *oh, wait – I actually need to do my music!*” As an immigrant child, he says: “You have to assimilate and do what your parents want you to do, and sometimes you lose so many years because… you have to emulate what they’ve done and find security. But sometimes you can be completely lost, because you never truly know yourself.”
+
+> "I spent so many years really discovering myself. Understanding what I feel, and just being comfortable in myself – in my body – as a dark-skinned, queer Black man"
+
+Now, at 35 and secure in so many ways, he’s feeling ready to share – and explore – another side of himself. “It’s one of the most vulnerable artistic expressions I’ve ever made.” In many ways, his circuitous journey back to his music ambitions really has worked out for the best. “I spent so many years really discovering myself. Understanding what I feel, and just being comfortable in myself – in my body – as a dark-skinned, queer Black man. More than if I was in my twenties.”
+
+He’s excited to see what he learns. There are already moods he’s found recurring throughout his work, whether visual, tactile or sonic. “It’s sexy, it’s fresh, it’s romantic. Vulnerable, too – fragile at the same time. I love those feelings when I’m creating.” Whatever the audio version of a vision is, it has begun to take long-term shape: “I know what I want to sound like at the end.” For once, visuals take a backseat. There are no planned looks yet, no set style identity sketched out. (On the cover of *Pop Romance*, it’s all toned torso and leg, almost nude but for a short frilly something.) The sound will guide whatever direction that takes. And anyway, that’ll be the easy part. After all, “I’m not afraid of visuals. I’m not afraid of taking a risk. I’m not afraid of pushing the boundary.”
+
+![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/11/IB-Kamara-Portrait-Gallery-8.jpg) ![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/11/IB-Kamara-Portrait-Gallery-7.jpg) ![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/11/IB-Kamara-Portrait-Gallery-6.jpg)
+
+Trousers: GCDS, Ear cuffs: HUGO KREIT, PANCONESI Necklaces: PEBBLE LONDON
+
+Recently, on TikTok, he stumbled across his childhood best friend – the one he sang Whitney with and was separated from during the war. “I was like, ‘Fuck, I’ve been trying to find you for years!’” he laughs, excitedly. “He’s still singing. I’m so proud of him. Through everything, this kid is still being creative.” It felt like looking in the mirror. “He has my mannerisms and everything. We’re like twins.” But living in Ghana, “he’s been unable to push through in life because there’s no resources. There’s nothing to support and nourish that.”
+
+It was something of a sliding doors realisation: how easily his friend’s story could have been his. Kamara has had the chance to express himself fully as an artist and, in the process, left his mark on this country – and beyond. He’s become an essential part of its creative fabric. At the same time, anti-immigrant sentiment is rising all around him, closing off opportunities for people like him from countries that have been plundered or destabilised by many of the places he now works in. Calls to send the boats back, and all the demonisation and dehumanisation of people searching for a better life, perplex him. “If only you knew what it takes to immigrate – the suffering, the loss, leaving your home, leaving everything you know,” he says, shaking his head. “You’re looking at a human that has lost so much, been through so much – and still you reject that human? I cannot sit with that.” And the hypocrisy is staggering. “People came to my country 400 years ago and took everything,” he says, referring to the start of the slave trade and, later, colonisation. “I’ve been here for like 120, and everyone’s upset? I don’t get it. Because I need 300 or something more before you can kick me out. It’s only fair.”
+
+![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/11/IB-Kamara-Portrait-Gallery-2.jpg) ![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/11/IB-Kamara-Portrait-Gallery-3.jpg)
+
+\[LEFT\] Top: DILARA FINDIKOGLU, Trousers: ALEXANDER MCQUEEN, Necklace: PEBBLE LONDON, Ear cuffs: HUGO KREIT, PANCONESI  
+\[RIGHT\] Coat: ISABEL MARANT, Ear cuffs: HUGO KREIT, Trikini: LUIS DE JAVIER, Belt: ELLIOTT RHODES, Jeans: DSQUARED2
+
+Kamara plans to release a full mixtape by May next year. “It’ll be potentially completely different from what I’ve done with *Pop Romance*,” he says. “But it will just be IB.” He seems to glow from within, excitement – and a tinge of nerves – spilling out. “Sometimes I’m like, *are we actually doing this?* But we are! I dare myself not to have the fear to express myself.” And it’s not the only new creative muscle he’s flexing: he’s been writing a TV show that’s nearly ready to deliver to a production company, with hopes of seeing it on screens by 2027. “I am crazy, but I love it. I have so many stories.”
+
+For Kamara, creative self-discovery has always meant embracing challenges – even if that means leaving behind prestigious roles and job titles. “I don’t believe in holding on to power just for relevance. It doesn’t make me happy. I have to find myself. I have to be relevant for myself. I have to uplift IB, really push IB, and be detached from titles and names and corporations. Music is the truest form of that detachment. It’s so personal. You can’t take it away from me,” he says, firmly. “Singing is what my ancestors gave to me to share with the world. It’s not for commercial objectification. It’s true to who I am.”
+
+That’s why, in this reintroduction to IB, it was important for him to frame it himself. “I’m telling you my story. And I want to be in control of my story.” He weighs up the two pictures he’s singled out for the Crack cover: one monochromatic, the other a bright burst of clashing colours. It won’t be his final call to make, but he’s gravitating towards the latter. “I think it communicates me better.”
+
+[![](https://cdn-ileplbf.nitrocdn.com/kxkbfzwlnoncjFpBpAcplQjIEmBAkqcn/assets/images/optimized/crackmagazine.net/wp-content/uploads/2025/01/Supporters-CTA-Web-Ad-V4.png)](https://crackmagazine.net/subscriptions/)
+
+[*Pop Romance*](https://open.spotify.com/album/0xiaJEM5yZBbED8E2zCbOO?si=_loeITrQRTG7TauI256CBg) is out now

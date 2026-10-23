@@ -1,9 +1,16 @@
 ---
 topic:
+  - "[[Magazine]]"
   - "[[Media]]"
-  - "[[Tech News]]"
+  - "[[Tech Magazine]]"
 IG: https://www.instagram.com/wired/
 Website: https://www.wired.com/
+Wikis:
+  - https://en.wikipedia.org/wiki/Wired_(magazine)
+Cities:
+  - "[[San Francisco]]"
+Countries:
+  - "[[USA]]"
 ---
 >[!tldr]
 >
@@ -12,11 +19,49 @@ Website: https://www.wired.com/
 > [Wired](app://obsidian.md/Wired) is a bimonthly American magazine that examines the impact of emerging technologies on culture, the economy, and politics. It is published in both print and online editions by [Condé Nast](app://obsidian.md/Cond%C3%A9%20Nast). The magazine has been in publication since its launch in January 1993. Its editorial office is based in San Francisco, California, with its business headquarters located in New York City.
 
 
-
+> [!Summary]
+> |   |   |
+|---|---|
 |Global Editorial Director|[Katie Drummond](https://en.wikipedia.org/wiki/Katie_Drummond "Katie Drummond")|
-|Former US editors-in-chief|[Louis Rossetto](https://en.wikipedia.org/wiki/Louis_Rossetto "Louis Rossetto"), Katrina Heron, [Chris Anderson](https://en.wikipedia.org/wiki/Chris_Anderson_\(writer\) "Chris Anderson (writer)"), Scott Dadich, [Nick Thompson](https://en.wikipedia.org/wiki/Nicholas_Thompson_\(editor\) "Nicholas Thompson (editor)"), [Gideon Lichfield](https://en.wikipedia.org/wiki/Gideon_Lichfield "Gideon Lichfield") Global editorial director: [**Katie Drummond**](https://www.wired.com/author/katie-drummond/)  
-Executive editor: [**Brian Barrett**](https://www.wired.com/author/brian-barrett/)  
-Deputy editor: [**Rosie Swash**](https://www.wired.com/author/rosie-swash)
+|Former US editors-in-chief|[Louis Rossetto](https://en.wikipedia.org/wiki/Louis_Rossetto "Louis Rossetto"), Katrina Heron, [Chris Anderson](https://en.wikipedia.org/wiki/Chris_Anderson_\(writer\) "Chris Anderson (writer)"), Scott Dadich, [Nick Thompson](https://en.wikipedia.org/wiki/Nicholas_Thompson_\(editor\) "Nicholas Thompson (editor)"), [Gideon Lichfield](https://en.wikipedia.org/wiki/Gideon_Lichfield "Gideon Lichfield")|
+|Categories|[Business](https://en.wikipedia.org/wiki/Business "Business"), [technology](https://en.wikipedia.org/wiki/Technology "Technology"), [lifestyle](https://en.wikipedia.org/wiki/Lifestyle_\(sociology\) "Lifestyle (sociology)"), [thought leader](https://en.wikipedia.org/wiki/Thought_leader "Thought leader")|
+|Frequency|Bi-monthly|
+|Total circulation|540,265[[1]](https://en.wikipedia.org/wiki/Wired_\(magazine\)#cite_note-1) (2024)|
+|Founder|[Louis Rossetto](https://en.wikipedia.org/wiki/Louis_Rossetto "Louis Rossetto"), [Jane Metcalfe](https://en.wikipedia.org/wiki/Jane_Metcalfe "Jane Metcalfe")|
+|Founded|February 1991|
+|First issue|January 1993, as a quarterly|
+|Company|[Condé Nast Publications](https://en.wikipedia.org/wiki/Cond%C3%A9_Nast_Publications "Condé Nast Publications")|
+|Country|United States|
+|Based in|[San Francisco](https://en.wikipedia.org/wiki/San_Francisco "San Francisco"), California|
+|Language|English|
+
+---
+
+- [[WIRED Middle East]]
+- [[WIRED]] U.S.
+- [[WIRED Czech Republic and Slovakia]] [License]
+- [[WIRED U.K.]]
+- [[WIRED Japan]]
+- [[WIRED Mexico & Latin America]]
+- [[WIRED Greece]] [License]
+- [[WIRED Turkey]] [License]
+
+---
+
+## Members
+
+
+
+Katie Drummond `Global Editorial Director`
+Michiaki Matsushima `Head of Editorial Content - Japan`
+Carla Sertin `Head of Editorial Content - Middle East`
+Mael Vallejo `Head of Editorial Content - WIRED en Español`
+
+|Former US editors-in-chief|[Louis Rossetto](https://en.wikipedia.org/wiki/Louis_Rossetto "Louis Rossetto"), Katrina Heron, [Chris Anderson](https://en.wikipedia.org/wiki/Chris_Anderson_\(writer\) "Chris Anderson (writer)"), Scott Dadich, [Nick Thompson](https://en.wikipedia.org/wiki/Nicholas_Thompson_\(editor\) "Nicholas Thompson (editor)"), [Gideon Lichfield](https://en.wikipedia.org/wiki/Gideon_Lichfield "Gideon Lichfield") 
+
+Global editorial director: [**Katie Drummond**](https://www.wired.com/author/katie-drummond/)  
+Executive editor: [**Brian Barrett**](https://www.wired.com/author/brian-barrett/)  
+Deputy editor: [**Rosie Swash**](https://www.wired.com/author/rosie-swash)
 
 [**Steven Levy**](https://www.wired.com/author/steven-levy/) Editor at large _(Signal: stevenlevy.72)_
 

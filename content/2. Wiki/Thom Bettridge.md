@@ -1,18 +1,22 @@
 ---
-topic: Editor
+topic:
+  - "[[Editor]]"
 IG: https://www.instagram.com/thomthomclub/
 URL: https://www.linkedin.com/in/thom-bettridge-54b12b182/
 ---
-[Interview (1)](https://www.novembermag.com/content/thom-bettridge/) | 
-
 >[!tldr] tl;dr
->
+> `(Ex) Editor-in-Chief & Chief Brand Officer` of [[i-D]]
+> `(Ex) Vice President, Creative and Content` of [[SSENSE]]
+> `(Ex) Editor-in-Chief` of [[HIGHSNOBIETY]]
+> `(Ex) Executive Editor` of [[Interview Magazine]], [[032c]]
 
 > [!Info]
+> 
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
+---
 
-## Related Topics
-- [[]]
+## Interview
+
+- [[Thom Bettridge (Interview)]] on [[November|novembermag]] 

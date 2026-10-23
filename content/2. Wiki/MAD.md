@@ -1,7 +1,8 @@
 ---
 aliases:
   - MAD Architecture
-topic: Studio
+topic:
+  - "[[Architecture Studio]]"
 IG:
   - https://www.instagram.com/madarchitects/
 Website: https://www.i-mad.com/
@@ -16,15 +17,9 @@ Related:
 > [!Info]
 > [[MAD]] is a global architecture studio working across architecture, urbanism,interiors, product design, and art tocreate immersive environments wherethe built form connects deeply withemotion and experience.
 
-# {{title}}
+> [!Summary]
 
-## Key Concepts
-
-## Related Topics
-
-
-[Website]()
-
+---
 
 
 [[MAD]] is a global architecture studio founded in 2004 by [[Ma Yansong]], led by Ma Yansong, [[Dang Qun]] and [[Yosuke Hayano]], with offices in Beijing, Los Angeles, and Rome. The studio approaches architecture through its relationship to culture, society and nature, to design spaces that connect environment, community and the individual.
@@ -50,3 +45,21 @@ We have worked on a wide range of program typologies, showcasing our versatility
 ![Article Image](https://www.i-mad.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2d8zs6ec%2Fproduction%2F474da77e9a9d2af05e04024f636414fabd05a1cc-2008x2185.jpg%3Fw%3D2000&w=3840&q=75)
 
 We are committed to developing a future shaped by experiential, innovative and technologically-advanced designs that embody a contemporary interpretation of humanities affinity for nature. With a vision for future cities founded on the spiritual and emotional needs of residents, MAD endeavors to create a balance between humanity, the city, and the environment. Across the world, we strive to create buildings that are contextually relevant and responsive to their surroundings such as urban planning, local traditions, and climate conditions. We believe in close collaboration with clients, consultants, and contractors throughout the design and construction process with an iterative design approach to achieve the best possible outcomes.
+
+---
+
+## Team
+
+- [[Ma Yansong]] `Principal Partner`
+- [[Dan Qun]] `Principal Partner`
+- [[Yosuke Hayano]] `Principal Partner`
+
+- [[Liu Huiying]] `Associate Partner`
+- [[Andrea D'antrassi]] `Associate Partner`
+- [[Lu Junliang (Dixon)]] `Associate Partner`
+- [[Kin Li]] `Associate Partner`
+- [[Fu Changrui]] `Associate Partner`
+- [[Tiffany Dahlen]] `Associate Partner`
+- [[Flora Lee]] `Associate Partner`
+- [[Xu Chen]] `Associate Partner`
+- [[Jon Kontuly]]

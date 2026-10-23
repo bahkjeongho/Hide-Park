@@ -1,4 +1,6 @@
 ---
+topic:
+  - "[[Brand Consultancy]]"
 IG: https://www.instagram.com/wolffolins/
 Website: https://www.wolffolins.com/
 URL: https://www.linkedin.com/company/wolff-olins
@@ -22,6 +24,10 @@ When it comes to realising your business and brand ambition, a ‘good’ organi
 ## Experience
 
 Brand Experience has become bland experience, fixated on the functional. Optimisation won’t ensure success as people’s expectations soar and their attention depletes. Your brand must realise its unique power to unlock new value for people and your business. We design transformative brand experiences that move people and organisations where they need to go.
+
+> [!Summary]
+
+---
 
 - Amanda Munilla, Global Principal
 - Andrew Lee, Finance Director

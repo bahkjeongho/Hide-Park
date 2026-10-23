@@ -1,11 +1,17 @@
 ---
+topic:
+  - "[[Design Studio]]"
 Website: https://www.pentagram.com/
 ---
 >[!tldr] tl;dr
 >
 
 > [!Info]
-> 
+> Pentagram is a multi-disciplinary, independently owned design studio.
+
+Our work encompasses graphics and identity, strategy and positioning, products and packaging, exhibitions and installations, websites and digital experiences, advertising and communications, data visualizations and typefaces, sound and motion. Our 23 partners are all practicing designers, and whether working collaboratively or independently, they do so in friendship.
+
+Our structure is unique. We are the only major design studio where the owners of the business are the creators of the work and serve as the primary contact for every client. This reflects our conviction that great design cannot happen without passion, intelligence and—above all—personal commitment, and is demonstrated by a portfolio that spans five decades, many industries, and clients of every size.
 
 > [!Summary]
 
@@ -24,21 +30,21 @@ Website: https://www.pentagram.com/
 - [[Eddie Opara]] New York
 - [[Emily Oberman]] New York
 - [[Giorgia Lupi]] New York
-- Harry Pearce London
-- Hugh Miller London
-- Jody Hudson-Powell London
-- John Rushworth London
-- Jon Marshall London
-- Justus Oehler Berlin
-- Luke Hayman New York
-- Luke Powell London
+- [[Harry Pearce]] London
+- [[Hugh Miller]] London
+- [[Jody Hudson-Powell]] London
+- [[John Rushworth]] London
+- [[Jon Marshall]] London
+- [[Justus Oehler]] Berlin
+- [[Luke Hayman]] New York
+- [[Luke Powell]] London
 - [[Marina Willer]] London
-- Matt Willey New York
-- Michael Gericke New York
-- Natasha Jen New York
-- Paula Scher New York
-- Piotr Woronkowicz New York
-- Samar Maakaroun London
+- [[Matt Willey]] New York
+- [[Michael Gericke]] New York
+- [[Natasha Jen]] New York
+- [[Paula Scher]] New York
+- [[Piotr Woronkowicz]] New York
+- [[Samar Maakaroun]] London
 
 ### Associates
 
